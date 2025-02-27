@@ -1,0 +1,5105 @@
+[
+    {
+        "pgnc_id": "PGNC:254",
+        "taxon_id": 3694,
+        "chromosome": "1",
+        "gene_symbol_string": "CYP80E1",
+        "gene_name_string": "cytochrome P450 family 80 subfamily E member 1",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.001G025200"
+        ],
+        "primary_id": "Potri.001G025200"
+    },
+    {
+        "pgnc_id": "PGNC:321",
+        "taxon_id": 3694,
+        "chromosome": "1",
+        "gene_symbol_string": "CYP727B1",
+        "gene_name_string": "cytochrome P450 family 727 subfamily B member 1",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.001G032800"
+        ],
+        "primary_id": "Potri.001G032800"
+    },
+    {
+        "pgnc_id": "PGNC:512",
+        "taxon_id": 3694,
+        "chromosome": "1",
+        "gene_symbol_string": "CYP78D3",
+        "gene_name_string": "cytochrome P450 family 78 subfamily D member 3",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.001G054800"
+        ],
+        "primary_id": "Potri.001G054800"
+    },
+    {
+        "pgnc_id": "PGNC:634",
+        "taxon_id": 3694,
+        "chromosome": "1",
+        "gene_symbol_string": "CYP51G1",
+        "gene_name_string": "cytochrome P450 family 51 subfamily G member 1",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.001G068400"
+        ],
+        "primary_id": "Potri.001G068400"
+    },
+    {
+        "pgnc_id": "PGNC:777",
+        "taxon_id": 3694,
+        "chromosome": "1",
+        "gene_symbol_string": "CYP78A22",
+        "gene_name_string": "cytochrome P450 family 78 subfamily A member 22",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.001G083900"
+        ],
+        "primary_id": "Potri.001G083900"
+    },
+    {
+        "pgnc_id": "PGNC:1013",
+        "taxon_id": 3694,
+        "chromosome": "1",
+        "gene_symbol_string": "CYP87A7",
+        "gene_name_string": "cytochrome P450 family 87 subfamily A member 7",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.001G109100"
+        ],
+        "primary_id": "Potri.001G109100"
+    },
+    {
+        "pgnc_id": "PGNC:1015",
+        "taxon_id": 3694,
+        "chromosome": "1",
+        "gene_symbol_string": "CYP80E2",
+        "gene_name_string": "cytochrome P450 family 80 subfamily E member 2",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.001G109300"
+        ],
+        "primary_id": "Potri.001G109300"
+    },
+    {
+        "pgnc_id": "PGNC:1060",
+        "taxon_id": 3694,
+        "chromosome": "1",
+        "gene_symbol_string": "CYP76F3",
+        "gene_name_string": "cytochrome P450 family 76 subfamily F member 3",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.001G113900"
+        ],
+        "primary_id": "Potri.001G113900"
+    },
+    {
+        "pgnc_id": "PGNC:1099",
+        "taxon_id": 3694,
+        "chromosome": "1",
+        "gene_symbol_string": "CYP706B3",
+        "gene_name_string": "cytochrome P450 family 706 subfamily B member 3",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.001G118400"
+        ],
+        "primary_id": "Potri.001G118400"
+    },
+    {
+        "pgnc_id": "PGNC:1100",
+        "taxon_id": 3694,
+        "chromosome": "1",
+        "gene_symbol_string": "CYP706C6",
+        "gene_name_string": "cytochrome P450 family 706 subfamily C member 6",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.001G118500"
+        ],
+        "primary_id": "Potri.001G118500"
+    },
+    {
+        "pgnc_id": "PGNC:1548",
+        "taxon_id": 3694,
+        "chromosome": "1",
+        "gene_symbol_string": "CYP92A18",
+        "gene_name_string": "cytochrome P450 family 92 subfamily A member 18",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.001G167800"
+        ],
+        "primary_id": "Potri.001G167800"
+    },
+    {
+        "pgnc_id": "PGNC:1549",
+        "taxon_id": 3694,
+        "chromosome": "1",
+        "gene_symbol_string": "CYP92A17",
+        "gene_name_string": "cytochrome P450 family 92 subfamily A member 17",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.001G167900"
+        ],
+        "primary_id": "Potri.001G167900"
+    },
+    {
+        "pgnc_id": "PGNC:1823",
+        "taxon_id": 3694,
+        "chromosome": "1",
+        "gene_symbol_string": "CYP90D5",
+        "gene_name_string": "cytochrome P450 family 90 subfamily D member 5",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.001G200100"
+        ],
+        "primary_id": "Potri.001G200100"
+    },
+    {
+        "pgnc_id": "PGNC:2190",
+        "taxon_id": 3694,
+        "chromosome": "1",
+        "gene_symbol_string": "CYP707A9",
+        "gene_name_string": "cytochrome P450 family 707 subfamily A member 9",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.001G242600"
+        ],
+        "primary_id": "Potri.001G242600"
+    },
+    {
+        "pgnc_id": "PGNC:2252",
+        "taxon_id": 3694,
+        "chromosome": "1",
+        "gene_symbol_string": "CYP86A18",
+        "gene_name_string": "cytochrome P450 family 86 subfamily A member 18",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.001G249700"
+        ],
+        "primary_id": "Potri.001G249700"
+    },
+    {
+        "pgnc_id": "PGNC:2430",
+        "taxon_id": 3694,
+        "chromosome": "1",
+        "gene_symbol_string": "CYP87D1",
+        "gene_name_string": "cytochrome P450 family 87 subfamily D member 1",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.001G270300"
+        ],
+        "primary_id": "Potri.001G270300"
+    },
+    {
+        "pgnc_id": "PGNC:2431",
+        "taxon_id": 3694,
+        "chromosome": "1",
+        "gene_symbol_string": "CYP87D2",
+        "gene_name_string": "cytochrome P450 family 87 subfamily D member 2",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.001G270400"
+        ],
+        "primary_id": "Potri.001G270400"
+    },
+    {
+        "pgnc_id": "PGNC:2432",
+        "taxon_id": 3694,
+        "chromosome": "1",
+        "gene_symbol_string": "CYP87D3A",
+        "gene_name_string": "cytochrome P450 family 87 subfamily D member 3A",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.001G270404"
+        ],
+        "primary_id": "Potri.001G270404"
+    },
+    {
+        "pgnc_id": "PGNC:2433",
+        "taxon_id": 3694,
+        "chromosome": "1",
+        "gene_symbol_string": "CYP87D3B",
+        "gene_name_string": "cytochrome P450 family 87 subfamily D member 3B",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.001G270500"
+        ],
+        "primary_id": "Potri.001G270500"
+    },
+    {
+        "pgnc_id": "PGNC:2434",
+        "taxon_id": 3694,
+        "chromosome": "1",
+        "gene_symbol_string": "CYP87D3C",
+        "gene_name_string": "cytochrome P450 family 87 subfamily D member 3C",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.001G270600"
+        ],
+        "primary_id": "Potri.001G270600"
+    },
+    {
+        "pgnc_id": "PGNC:2435",
+        "taxon_id": 3694,
+        "chromosome": "1",
+        "gene_symbol_string": "CYP87D4",
+        "gene_name_string": "cytochrome P450 family 87 subfamily D member 4",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.001G270700"
+        ],
+        "primary_id": "Potri.001G270700"
+    },
+    {
+        "pgnc_id": "PGNC:2436",
+        "taxon_id": 3694,
+        "chromosome": "1",
+        "gene_symbol_string": "CYP87D5",
+        "gene_name_string": "cytochrome P450 family 87 subfamily D member 5",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.001G270800"
+        ],
+        "primary_id": "Potri.001G270800"
+    },
+    {
+        "pgnc_id": "PGNC:2437",
+        "taxon_id": 3694,
+        "chromosome": "1",
+        "gene_symbol_string": "CYP712E6",
+        "gene_name_string": "cytochrome P450 family 712 subfamily E member 6",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.001G270900"
+        ],
+        "primary_id": "Potri.001G270900"
+    },
+    {
+        "pgnc_id": "PGNC:2468",
+        "taxon_id": 3694,
+        "chromosome": "1",
+        "gene_symbol_string": "CYP75A13",
+        "gene_name_string": "cytochrome P450 family 75 subfamily A member 13",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.001G274600"
+        ],
+        "primary_id": "Potri.001G274600"
+    },
+    {
+        "pgnc_id": "PGNC:2962",
+        "taxon_id": 3694,
+        "chromosome": "1",
+        "gene_symbol_string": "CYP89A25",
+        "gene_name_string": "cytochrome P450 family 89 subfamily A member 25",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.001G330501"
+        ],
+        "primary_id": "Potri.001G330501"
+    },
+    {
+        "pgnc_id": "PGNC:2965",
+        "taxon_id": 3694,
+        "chromosome": "1",
+        "gene_symbol_string": "CYP94B7",
+        "gene_name_string": "cytochrome P450 family 94 subfamily B member 7",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.001G331100"
+        ],
+        "primary_id": "Potri.001G331100"
+    },
+    {
+        "pgnc_id": "PGNC:2998",
+        "taxon_id": 3694,
+        "chromosome": "1",
+        "gene_symbol_string": "CYP82J1",
+        "gene_name_string": "cytochrome P450 family 82 subfamily J member 1",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.001G334700"
+        ],
+        "primary_id": "Potri.001G334700"
+    },
+    {
+        "pgnc_id": "PGNC:3054",
+        "taxon_id": 3694,
+        "chromosome": "1",
+        "gene_symbol_string": "CYP724B8",
+        "gene_name_string": "cytochrome P450 family 724 subfamily B member 8",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.001G341000"
+        ],
+        "primary_id": "Potri.001G341000"
+    },
+    {
+        "pgnc_id": "PGNC:3250",
+        "taxon_id": 3694,
+        "chromosome": "1",
+        "gene_symbol_string": "CYP71D29A",
+        "gene_name_string": "cytochrome P450 family 71 subfamily D member 29A",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.001G364600"
+        ],
+        "primary_id": "Potri.001G364600"
+    },
+    {
+        "pgnc_id": "PGNC:3253",
+        "taxon_id": 3694,
+        "chromosome": "1",
+        "gene_symbol_string": "CYP71D29C",
+        "gene_name_string": "cytochrome P450 family 71 subfamily D member 29C",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.001G365100"
+        ],
+        "primary_id": "Potri.001G365100"
+    },
+    {
+        "pgnc_id": "PGNC:3523",
+        "taxon_id": 3694,
+        "chromosome": "1",
+        "gene_symbol_string": "CYP96F5",
+        "gene_name_string": "cytochrome P450 family 96 subfamily F member 5",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.001G397900"
+        ],
+        "primary_id": "Potri.001G397900"
+    },
+    {
+        "pgnc_id": "PGNC:3826",
+        "taxon_id": 3694,
+        "chromosome": "1",
+        "gene_symbol_string": "CYP716C2",
+        "gene_name_string": "cytochrome P450 family 716 subfamily C member 2",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.001G440200"
+        ],
+        "primary_id": "Potri.001G440200"
+    },
+    {
+        "pgnc_id": "PGNC:4337",
+        "taxon_id": 3694,
+        "chromosome": "2",
+        "gene_symbol_string": "CYP83F4",
+        "gene_name_string": "cytochrome P450 family 83 subfamily F member 4",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.002G025300"
+        ],
+        "primary_id": "Potri.002G025300"
+    },
+    {
+        "pgnc_id": "PGNC:4338",
+        "taxon_id": 3694,
+        "chromosome": "2",
+        "gene_symbol_string": "CYP83F1A",
+        "gene_name_string": "cytochrome P450 family 83 subfamily F member 1A",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.002G025350"
+        ],
+        "primary_id": "Potri.002G025350"
+    },
+    {
+        "pgnc_id": "PGNC:4339",
+        "taxon_id": 3694,
+        "chromosome": "2",
+        "gene_symbol_string": "CYP83F1B",
+        "gene_name_string": "cytochrome P450 family 83 subfamily F member 1B",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.002G025425"
+        ],
+        "primary_id": "Potri.002G025425"
+    },
+    {
+        "pgnc_id": "PGNC:4340",
+        "taxon_id": 3694,
+        "chromosome": "2",
+        "gene_symbol_string": "CYP83F3A",
+        "gene_name_string": "cytochrome P450 family 83 subfamily F member 3A",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.002G025500"
+        ],
+        "primary_id": "Potri.002G025500"
+    },
+    {
+        "pgnc_id": "PGNC:4343",
+        "taxon_id": 3694,
+        "chromosome": "2",
+        "gene_symbol_string": "CYP83F2A",
+        "gene_name_string": "cytochrome P450 family 83 subfamily F member 2A",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.002G025800"
+        ],
+        "primary_id": "Potri.002G025800"
+    },
+    {
+        "pgnc_id": "PGNC:4344",
+        "taxon_id": 3694,
+        "chromosome": "2",
+        "gene_symbol_string": "CYP83F1C",
+        "gene_name_string": "cytochrome P450 family 83 subfamily F member 1C",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.002G026100"
+        ],
+        "primary_id": "Potri.002G026100"
+    },
+    {
+        "pgnc_id": "PGNC:4345",
+        "taxon_id": 3694,
+        "chromosome": "2",
+        "gene_symbol_string": "CYP83F3B",
+        "gene_name_string": "cytochrome P450 family 83 subfamily F member 3B",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.002G026300"
+        ],
+        "primary_id": "Potri.002G026300"
+    },
+    {
+        "pgnc_id": "PGNC:4346",
+        "taxon_id": 3694,
+        "chromosome": "2",
+        "gene_symbol_string": "CYP83F2B",
+        "gene_name_string": "cytochrome P450 family 83 subfamily F member 2B",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.002G026500"
+        ],
+        "primary_id": "Potri.002G026500"
+    },
+    {
+        "pgnc_id": "PGNC:4404",
+        "taxon_id": 3694,
+        "chromosome": "2",
+        "gene_symbol_string": "CYP722A1",
+        "gene_name_string": "cytochrome P450 family 722 subfamily A member 1",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.002G033000"
+        ],
+        "primary_id": "Potri.002G033000"
+    },
+    {
+        "pgnc_id": "PGNC:4490",
+        "taxon_id": 3694,
+        "chromosome": "2",
+        "gene_symbol_string": "CYP94A11",
+        "gene_name_string": "cytochrome P450 family 94 subfamily A member 11",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.002G042100"
+        ],
+        "primary_id": "Potri.002G042100"
+    },
+    {
+        "pgnc_id": "PGNC:4491",
+        "taxon_id": 3694,
+        "chromosome": "2",
+        "gene_symbol_string": "CYP94A12",
+        "gene_name_string": "cytochrome P450 family 94 subfamily A member 12",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.002G042200"
+        ],
+        "primary_id": "Potri.002G042200"
+    },
+    {
+        "pgnc_id": "PGNC:4655",
+        "taxon_id": 3694,
+        "chromosome": "2",
+        "gene_symbol_string": "CYP718A1",
+        "gene_name_string": "cytochrome P450 family 718 subfamily A member 1",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.002G060700"
+        ],
+        "primary_id": "Potri.002G060700"
+    },
+    {
+        "pgnc_id": "PGNC:4657",
+        "taxon_id": 3694,
+        "chromosome": "2",
+        "gene_symbol_string": "CYP78A20",
+        "gene_name_string": "cytochrome P450 family 78 subfamily A member 20",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.002G060900"
+        ],
+        "primary_id": "Potri.002G060900"
+    },
+    {
+        "pgnc_id": "PGNC:4737",
+        "taxon_id": 3694,
+        "chromosome": "2",
+        "gene_symbol_string": "CYP733A1",
+        "gene_name_string": "cytochrome P450 family 733 subfamily A member 1",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.002G069600"
+        ],
+        "primary_id": "Potri.002G069600"
+    },
+    {
+        "pgnc_id": "PGNC:5206",
+        "taxon_id": 3694,
+        "chromosome": "2",
+        "gene_symbol_string": "CYP81B5",
+        "gene_name_string": "cytochrome P450 family 81 subfamily B member 5",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.002G121100"
+        ],
+        "primary_id": "Potri.002G121100"
+    },
+    {
+        "pgnc_id": "PGNC:5207",
+        "taxon_id": 3694,
+        "chromosome": "2",
+        "gene_symbol_string": "CYP81B4",
+        "gene_name_string": "cytochrome P450 family 81 subfamily B member 4",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.002G121200"
+        ],
+        "primary_id": "Potri.002G121200"
+    },
+    {
+        "pgnc_id": "PGNC:5208",
+        "taxon_id": 3694,
+        "chromosome": "2",
+        "gene_symbol_string": "CYP81B3",
+        "gene_name_string": "cytochrome P450 family 81 subfamily B member 3",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.002G121300"
+        ],
+        "primary_id": "Potri.002G121300"
+    },
+    {
+        "pgnc_id": "PGNC:5209",
+        "taxon_id": 3694,
+        "chromosome": "2",
+        "gene_symbol_string": "CYP81B6",
+        "gene_name_string": "cytochrome P450 family 81 subfamily B member 6",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.002G121400"
+        ],
+        "primary_id": "Potri.002G121400"
+    },
+    {
+        "pgnc_id": "PGNC:5212",
+        "taxon_id": 3694,
+        "chromosome": "2",
+        "gene_symbol_string": "CYP81BQ3",
+        "gene_name_string": "cytochrome P450 family 81 subfamily BQ member 3",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.002G121900"
+        ],
+        "primary_id": "Potri.002G121900"
+    },
+    {
+        "pgnc_id": "PGNC:5249",
+        "taxon_id": 3694,
+        "chromosome": "2",
+        "gene_symbol_string": "CYP707A14",
+        "gene_name_string": "cytochrome P450 family 707 subfamily A member 14",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.002G126100"
+        ],
+        "primary_id": "Potri.002G126100"
+    },
+    {
+        "pgnc_id": "PGNC:5283",
+        "taxon_id": 3694,
+        "chromosome": "2",
+        "gene_symbol_string": "CYP701A11",
+        "gene_name_string": "cytochrome P450 family 701 subfamily A member 11",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.002G129700"
+        ],
+        "primary_id": "Potri.002G129700"
+    },
+    {
+        "pgnc_id": "PGNC:5293",
+        "taxon_id": 3694,
+        "chromosome": "2",
+        "gene_symbol_string": "CYP74A1",
+        "gene_name_string": "cytochrome P450 family 74 subfamily A member 1",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.002G130700"
+        ],
+        "primary_id": "Potri.002G130700"
+    },
+    {
+        "pgnc_id": "PGNC:5326",
+        "taxon_id": 3694,
+        "chromosome": "2",
+        "gene_symbol_string": "CYP721A3",
+        "gene_name_string": "cytochrome P450 family 721 subfamily A member 3",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.002G134500"
+        ],
+        "primary_id": "Potri.002G134500"
+    },
+    {
+        "pgnc_id": "PGNC:5472",
+        "taxon_id": 3694,
+        "chromosome": "2",
+        "gene_symbol_string": "CYP76T1",
+        "gene_name_string": "cytochrome P450 family 76 subfamily T member 1",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.002G150100"
+        ],
+        "primary_id": "Potri.002G150100"
+    },
+    {
+        "pgnc_id": "PGNC:5473",
+        "taxon_id": 3694,
+        "chromosome": "2",
+        "gene_symbol_string": "CYP76T2",
+        "gene_name_string": "cytochrome P450 family 76 subfamily T member 2",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.002G150200"
+        ],
+        "primary_id": "Potri.002G150200"
+    },
+    {
+        "pgnc_id": "PGNC:5474",
+        "taxon_id": 3694,
+        "chromosome": "2",
+        "gene_symbol_string": "CYP76T3",
+        "gene_name_string": "cytochrome P450 family 76 subfamily T member 3",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.002G150300"
+        ],
+        "primary_id": "Potri.002G150300"
+    },
+    {
+        "pgnc_id": "PGNC:5475",
+        "taxon_id": 3694,
+        "chromosome": "2",
+        "gene_symbol_string": "CYP76T4",
+        "gene_name_string": "cytochrome P450 family 76 subfamily T member 4",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.002G150400"
+        ],
+        "primary_id": "Potri.002G150400"
+    },
+    {
+        "pgnc_id": "PGNC:5476",
+        "taxon_id": 3694,
+        "chromosome": "2",
+        "gene_symbol_string": "CYP76T5",
+        "gene_name_string": "cytochrome P450 family 76 subfamily T member 5",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.002G150500"
+        ],
+        "primary_id": "Potri.002G150500"
+    },
+    {
+        "pgnc_id": "PGNC:5673",
+        "taxon_id": 3694,
+        "chromosome": "2",
+        "gene_symbol_string": "CYP703A4",
+        "gene_name_string": "cytochrome P450 family 703 subfamily A member 4",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.002G171800"
+        ],
+        "primary_id": "Potri.002G171800"
+    },
+    {
+        "pgnc_id": "PGNC:5701",
+        "taxon_id": 3694,
+        "chromosome": "2",
+        "gene_symbol_string": "CYP78A24",
+        "gene_name_string": "cytochrome P450 family 78 subfamily A member 24",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.002G175200"
+        ],
+        "primary_id": "Potri.002G175200"
+    },
+    {
+        "pgnc_id": "PGNC:6439",
+        "taxon_id": 3694,
+        "chromosome": "2",
+        "gene_symbol_string": "CYP721A2",
+        "gene_name_string": "cytochrome P450 family 721 subfamily A member 2",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.002G263800"
+        ],
+        "primary_id": "Potri.002G263800"
+    },
+    {
+        "pgnc_id": "PGNC:6478",
+        "taxon_id": 3694,
+        "chromosome": "3",
+        "gene_symbol_string": "CYP81S3",
+        "gene_name_string": "cytochrome P450 family 81 subfamily S member 3",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.003G006000"
+        ],
+        "primary_id": "Potri.003G006000"
+    },
+    {
+        "pgnc_id": "PGNC:6487",
+        "taxon_id": 3694,
+        "chromosome": "3",
+        "gene_symbol_string": "CYP81S1",
+        "gene_name_string": "cytochrome P450 family 81 subfamily S member 1",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.003G007000"
+        ],
+        "primary_id": "Potri.003G007000"
+    },
+    {
+        "pgnc_id": "PGNC:6488",
+        "taxon_id": 3694,
+        "chromosome": "3",
+        "gene_symbol_string": "CYP81S4",
+        "gene_name_string": "cytochrome P450 family 81 subfamily S member 4",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.003G007900"
+        ],
+        "primary_id": "Potri.003G007900"
+    },
+    {
+        "pgnc_id": "PGNC:6489",
+        "taxon_id": 3694,
+        "chromosome": "3",
+        "gene_symbol_string": "CYP81S6",
+        "gene_name_string": "cytochrome P450 family 81 subfamily S member 6",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.003G008200"
+        ],
+        "primary_id": "Potri.003G008200"
+    },
+    {
+        "pgnc_id": "PGNC:6716",
+        "taxon_id": 3694,
+        "chromosome": "3",
+        "gene_symbol_string": "CYP90D6",
+        "gene_name_string": "cytochrome P450 family 90 subfamily D member 6",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.003G038200"
+        ],
+        "primary_id": "Potri.003G038200"
+    },
+    {
+        "pgnc_id": "PGNC:6938",
+        "taxon_id": 3694,
+        "chromosome": "3",
+        "gene_symbol_string": "CYP92A19",
+        "gene_name_string": "cytochrome P450 family 92 subfamily A member 19",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.003G066400"
+        ],
+        "primary_id": "Potri.003G066400"
+    },
+    {
+        "pgnc_id": "PGNC:6939",
+        "taxon_id": 3694,
+        "chromosome": "3",
+        "gene_symbol_string": "CYP92A20",
+        "gene_name_string": "cytochrome P450 family 92 subfamily A member 20",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.003G066600"
+        ],
+        "primary_id": "Potri.003G066600"
+    },
+    {
+        "pgnc_id": "PGNC:6940",
+        "taxon_id": 3694,
+        "chromosome": "3",
+        "gene_symbol_string": "CYP92A21",
+        "gene_name_string": "cytochrome P450 family 92 subfamily A member 21",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.003G066800"
+        ],
+        "primary_id": "Potri.003G066800"
+    },
+    {
+        "pgnc_id": "PGNC:7301",
+        "taxon_id": 3694,
+        "chromosome": "3",
+        "gene_symbol_string": "CYP89A26",
+        "gene_name_string": "cytochrome P450 family 89 subfamily A member 26",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.003G104600"
+        ],
+        "primary_id": "Potri.003G104600"
+    },
+    {
+        "pgnc_id": "PGNC:7393",
+        "taxon_id": 3694,
+        "chromosome": "3",
+        "gene_symbol_string": "CYP706D1",
+        "gene_name_string": "cytochrome P450 family 706 subfamily D member 1",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.003G114400"
+        ],
+        "primary_id": "Potri.003G114400"
+    },
+    {
+        "pgnc_id": "PGNC:7430",
+        "taxon_id": 3694,
+        "chromosome": "3",
+        "gene_symbol_string": "CYP76F4",
+        "gene_name_string": "cytochrome P450 family 76 subfamily F member 4",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.003G118200"
+        ],
+        "primary_id": "Potri.003G118200"
+    },
+    {
+        "pgnc_id": "PGNC:7472",
+        "taxon_id": 3694,
+        "chromosome": "3",
+        "gene_symbol_string": "CYP87A8",
+        "gene_name_string": "cytochrome P450 family 87 subfamily A member 8",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.003G122500"
+        ],
+        "primary_id": "Potri.003G122500"
+    },
+    {
+        "pgnc_id": "PGNC:7533",
+        "taxon_id": 3694,
+        "chromosome": "3",
+        "gene_symbol_string": "CYP86A21",
+        "gene_name_string": "cytochrome P450 family 86 subfamily A member 21",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.003G129100"
+        ],
+        "primary_id": "Potri.003G129100"
+    },
+    {
+        "pgnc_id": "PGNC:7704",
+        "taxon_id": 3694,
+        "chromosome": "3",
+        "gene_symbol_string": "CYP78A23",
+        "gene_name_string": "cytochrome P450 family 78 subfamily A member 23",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.003G146800"
+        ],
+        "primary_id": "Potri.003G146800"
+    },
+    {
+        "pgnc_id": "PGNC:7830",
+        "taxon_id": 3694,
+        "chromosome": "3",
+        "gene_symbol_string": "CYP51G5",
+        "gene_name_string": "cytochrome P450 family 51 subfamily G member 5",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.003G161700"
+        ],
+        "primary_id": "Potri.003G161700"
+    },
+    {
+        "pgnc_id": "PGNC:7943",
+        "taxon_id": 3694,
+        "chromosome": "3",
+        "gene_symbol_string": "CYP78D2",
+        "gene_name_string": "cytochrome P450 family 78 subfamily D member 2",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.003G173500"
+        ],
+        "primary_id": "Potri.003G173500"
+    },
+    {
+        "pgnc_id": "PGNC:8127",
+        "taxon_id": 3694,
+        "chromosome": "3",
+        "gene_symbol_string": "CYP727B2",
+        "gene_name_string": "cytochrome P450 family 727 subfamily B member 2",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.003G192300"
+        ],
+        "primary_id": "Potri.003G192300"
+    },
+    {
+        "pgnc_id": "PGNC:8555",
+        "taxon_id": 3694,
+        "chromosome": "4",
+        "gene_symbol_string": "CYP728D7A",
+        "gene_name_string": "cytochrome P450 family 728 subfamily D member 7A",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.004G017633"
+        ],
+        "primary_id": "Potri.004G017633"
+    },
+    {
+        "pgnc_id": "PGNC:8557",
+        "taxon_id": 3694,
+        "chromosome": "4",
+        "gene_symbol_string": "CYP728D7B",
+        "gene_name_string": "cytochrome P450 family 728 subfamily D member 7B",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.004G017700"
+        ],
+        "primary_id": "Potri.004G017700"
+    },
+    {
+        "pgnc_id": "PGNC:8558",
+        "taxon_id": 3694,
+        "chromosome": "4",
+        "gene_symbol_string": "CYP728D8",
+        "gene_name_string": "cytochrome P450 family 728 subfamily D member 8",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.004G017800"
+        ],
+        "primary_id": "Potri.004G017800"
+    },
+    {
+        "pgnc_id": "PGNC:8568",
+        "taxon_id": 3694,
+        "chromosome": "4",
+        "gene_symbol_string": "CYP77B3",
+        "gene_name_string": "cytochrome P450 family 77 subfamily B member 3",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.004G018800"
+        ],
+        "primary_id": "Potri.004G018800"
+    },
+    {
+        "pgnc_id": "PGNC:8570",
+        "taxon_id": 3694,
+        "chromosome": "4",
+        "gene_symbol_string": "CYP77B4",
+        "gene_name_string": "cytochrome P450 family 77 subfamily B member 4",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.004G019000"
+        ],
+        "primary_id": "Potri.004G019000"
+    },
+    {
+        "pgnc_id": "PGNC:8895",
+        "taxon_id": 3694,
+        "chromosome": "4",
+        "gene_symbol_string": "CYP79DA8",
+        "gene_name_string": "cytochrome P450 family 79 subfamily DA member 8",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.004G055200"
+        ],
+        "primary_id": "Potri.004G055200"
+    },
+    {
+        "pgnc_id": "PGNC:9298",
+        "taxon_id": 3694,
+        "chromosome": "4",
+        "gene_symbol_string": "CYP735A6",
+        "gene_name_string": "cytochrome P450 family 735 subfamily A member 6",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.004G100400"
+        ],
+        "primary_id": "Potri.004G100400"
+    },
+    {
+        "pgnc_id": "PGNC:9354",
+        "taxon_id": 3694,
+        "chromosome": "4",
+        "gene_symbol_string": "CYP82L1",
+        "gene_name_string": "cytochrome P450 family 82 subfamily L member 1",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.004G106600"
+        ],
+        "primary_id": "Potri.004G106600"
+    },
+    {
+        "pgnc_id": "PGNC:9472",
+        "taxon_id": 3694,
+        "chromosome": "4",
+        "gene_symbol_string": "CYP85A1",
+        "gene_name_string": "cytochrome P450 family 85 subfamily A member 1",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.004G117700"
+        ],
+        "primary_id": "Potri.004G117700"
+    },
+    {
+        "pgnc_id": "PGNC:9584",
+        "taxon_id": 3694,
+        "chromosome": "4",
+        "gene_symbol_string": "CYP710A12",
+        "gene_name_string": "cytochrome P450 family 710 subfamily A member 12",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.004G131700"
+        ],
+        "primary_id": "Potri.004G131700"
+    },
+    {
+        "pgnc_id": "PGNC:9657",
+        "taxon_id": 3694,
+        "chromosome": "4",
+        "gene_symbol_string": "CYP707A12",
+        "gene_name_string": "cytochrome P450 family 707 subfamily A member 12",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.004G140900"
+        ],
+        "primary_id": "Potri.004G140900"
+    },
+    {
+        "pgnc_id": "PGNC:9714",
+        "taxon_id": 3694,
+        "chromosome": "4",
+        "gene_symbol_string": "CYP74C6A",
+        "gene_name_string": "cytochrome P450 family 74 subfamily C member 6A",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.004G148600"
+        ],
+        "primary_id": "Potri.004G148600"
+    },
+    {
+        "pgnc_id": "PGNC:9716",
+        "taxon_id": 3694,
+        "chromosome": "4",
+        "gene_symbol_string": "CYP74C6B",
+        "gene_name_string": "cytochrome P450 family 74 subfamily C member 6B",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.004G148900"
+        ],
+        "primary_id": "Potri.004G148900"
+    },
+    {
+        "pgnc_id": "PGNC:9717",
+        "taxon_id": 3694,
+        "chromosome": "4",
+        "gene_symbol_string": "CYP74C7",
+        "gene_name_string": "cytochrome P450 family 74 subfamily C member 7",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.004G149000"
+        ],
+        "primary_id": "Potri.004G149000"
+    },
+    {
+        "pgnc_id": "PGNC:10033",
+        "taxon_id": 3694,
+        "chromosome": "4",
+        "gene_symbol_string": "CYP87D11",
+        "gene_name_string": "cytochrome P450 family 87 subfamily D member 11",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.004G183800"
+        ],
+        "primary_id": "Potri.004G183800"
+    },
+    {
+        "pgnc_id": "PGNC:10050",
+        "taxon_id": 3694,
+        "chromosome": "4",
+        "gene_symbol_string": "CYP94C6",
+        "gene_name_string": "cytochrome P450 family 94 subfamily C member 6",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.004G185300"
+        ],
+        "primary_id": "Potri.004G185300"
+    },
+    {
+        "pgnc_id": "PGNC:10202",
+        "taxon_id": 3694,
+        "chromosome": "4",
+        "gene_symbol_string": "CYP87D12",
+        "gene_name_string": "cytochrome P450 family 87 subfamily D member 12",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.004G204100"
+        ],
+        "primary_id": "Potri.004G204100"
+    },
+    {
+        "pgnc_id": "PGNC:10471",
+        "taxon_id": 3694,
+        "chromosome": "4",
+        "gene_symbol_string": "CYP707A15",
+        "gene_name_string": "cytochrome P450 family 707 subfamily A member 15",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.004G235400"
+        ],
+        "primary_id": "Potri.004G235400"
+    },
+    {
+        "pgnc_id": "PGNC:10715",
+        "taxon_id": 3694,
+        "chromosome": "5",
+        "gene_symbol_string": "CYP76G5A",
+        "gene_name_string": "cytochrome P450 family 76 subfamily G member 5A",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.005G029200"
+        ],
+        "primary_id": "Potri.005G029200"
+    },
+    {
+        "pgnc_id": "PGNC:10717",
+        "taxon_id": 3694,
+        "chromosome": "5",
+        "gene_symbol_string": "CYP76G2",
+        "gene_name_string": "cytochrome P450 family 76 subfamily G member 2",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.005G029600"
+        ],
+        "primary_id": "Potri.005G029600"
+    },
+    {
+        "pgnc_id": "PGNC:10718",
+        "taxon_id": 3694,
+        "chromosome": "5",
+        "gene_symbol_string": "CYP76G3",
+        "gene_name_string": "cytochrome P450 family 76 subfamily G member 3",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.005G029700"
+        ],
+        "primary_id": "Potri.005G029700"
+    },
+    {
+        "pgnc_id": "PGNC:10719",
+        "taxon_id": 3694,
+        "chromosome": "5",
+        "gene_symbol_string": "CYP76G4",
+        "gene_name_string": "cytochrome P450 family 76 subfamily G member 4",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.005G029800"
+        ],
+        "primary_id": "Potri.005G029800"
+    },
+    {
+        "pgnc_id": "PGNC:10722",
+        "taxon_id": 3694,
+        "chromosome": "5",
+        "gene_symbol_string": "CYP76G5B",
+        "gene_name_string": "cytochrome P450 family 76 subfamily G member 5B",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.005G030100"
+        ],
+        "primary_id": "Potri.005G030100"
+    },
+    {
+        "pgnc_id": "PGNC:10767",
+        "taxon_id": 3694,
+        "chromosome": "5",
+        "gene_symbol_string": "CYP721A7",
+        "gene_name_string": "cytochrome P450 family 721 subfamily A member 7",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.005G035200"
+        ],
+        "primary_id": "Potri.005G035200"
+    },
+    {
+        "pgnc_id": "PGNC:10783",
+        "taxon_id": 3694,
+        "chromosome": "5",
+        "gene_symbol_string": "CYP93B8",
+        "gene_name_string": "cytochrome P450 family 93 subfamily B member 8",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.005G037100"
+        ],
+        "primary_id": "Potri.005G037100"
+    },
+    {
+        "pgnc_id": "PGNC:10784",
+        "taxon_id": 3694,
+        "chromosome": "5",
+        "gene_symbol_string": "CYP93B63",
+        "gene_name_string": "cytochrome P450 family 93 subfamily B member 63",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.005G037201"
+        ],
+        "primary_id": "Potri.005G037201"
+    },
+    {
+        "pgnc_id": "PGNC:10853",
+        "taxon_id": 3694,
+        "chromosome": "5",
+        "gene_symbol_string": "CYP706C5",
+        "gene_name_string": "cytochrome P450 family 706 subfamily C member 5",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.005G045800"
+        ],
+        "primary_id": "Potri.005G045800"
+    },
+    {
+        "pgnc_id": "PGNC:11023",
+        "taxon_id": 3694,
+        "chromosome": "5",
+        "gene_symbol_string": "CYP96F2",
+        "gene_name_string": "cytochrome P450 family 96 subfamily F member 2",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.005G064400"
+        ],
+        "primary_id": "Potri.005G064400"
+    },
+    {
+        "pgnc_id": "PGNC:11165",
+        "taxon_id": 3694,
+        "chromosome": "5",
+        "gene_symbol_string": "CYP89A18",
+        "gene_name_string": "cytochrome P450 family 89 subfamily A member 18",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.005G079600"
+        ],
+        "primary_id": "Potri.005G079600"
+    },
+    {
+        "pgnc_id": "PGNC:11208",
+        "taxon_id": 3694,
+        "chromosome": "5",
+        "gene_symbol_string": "CYP78A18",
+        "gene_name_string": "cytochrome P450 family 78 subfamily A member 18",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.005G084500"
+        ],
+        "primary_id": "Potri.005G084500"
+    },
+    {
+        "pgnc_id": "PGNC:11275",
+        "taxon_id": 3694,
+        "chromosome": "5",
+        "gene_symbol_string": "CYP86B4",
+        "gene_name_string": "cytochrome P450 family 86 subfamily B member 4",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.005G092200"
+        ],
+        "primary_id": "Potri.005G092200"
+    },
+    {
+        "pgnc_id": "PGNC:11295",
+        "taxon_id": 3694,
+        "chromosome": "5",
+        "gene_symbol_string": "CYP96G1",
+        "gene_name_string": "cytochrome P450 family 96 subfamily G member 1",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.005G094500"
+        ],
+        "primary_id": "Potri.005G094500"
+    },
+    {
+        "pgnc_id": "PGNC:11511",
+        "taxon_id": 3694,
+        "chromosome": "5",
+        "gene_symbol_string": "CYP84A10",
+        "gene_name_string": "cytochrome P450 family 84 subfamily A member 10",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.005G117500"
+        ],
+        "primary_id": "Potri.005G117500"
+    },
+    {
+        "pgnc_id": "PGNC:11572",
+        "taxon_id": 3694,
+        "chromosome": "5",
+        "gene_symbol_string": "CYP90B6",
+        "gene_name_string": "cytochrome P450 family 90 subfamily B member 6",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.005G124000"
+        ],
+        "primary_id": "Potri.005G124000"
+    },
+    {
+        "pgnc_id": "PGNC:11722",
+        "taxon_id": 3694,
+        "chromosome": "5",
+        "gene_symbol_string": "CYP81S7",
+        "gene_name_string": "cytochrome P450 family 81 subfamily S member 7",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.005G143800"
+        ],
+        "primary_id": "Potri.005G143800"
+    },
+    {
+        "pgnc_id": "PGNC:11723",
+        "taxon_id": 3694,
+        "chromosome": "5",
+        "gene_symbol_string": "CYP81S8",
+        "gene_name_string": "cytochrome P450 family 81 subfamily S member 8",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.005G143900"
+        ],
+        "primary_id": "Potri.005G143900"
+    },
+    {
+        "pgnc_id": "PGNC:11724",
+        "taxon_id": 3694,
+        "chromosome": "5",
+        "gene_symbol_string": "CYP81S9",
+        "gene_name_string": "cytochrome P450 family 81 subfamily S member 9",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.005G144000"
+        ],
+        "primary_id": "Potri.005G144000"
+    },
+    {
+        "pgnc_id": "PGNC:12184",
+        "taxon_id": 3694,
+        "chromosome": "5",
+        "gene_symbol_string": "CYP78A19",
+        "gene_name_string": "cytochrome P450 family 78 subfamily A member 19",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.005G200400"
+        ],
+        "primary_id": "Potri.005G200400"
+    },
+    {
+        "pgnc_id": "PGNC:12367",
+        "taxon_id": 3694,
+        "chromosome": "5",
+        "gene_symbol_string": "CYP94A10",
+        "gene_name_string": "cytochrome P450 family 94 subfamily A member 10",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.005G220700"
+        ],
+        "primary_id": "Potri.005G220700"
+    },
+    {
+        "pgnc_id": "PGNC:12369",
+        "taxon_id": 3694,
+        "chromosome": "5",
+        "gene_symbol_string": "CYP94A9",
+        "gene_name_string": "cytochrome P450 family 94 subfamily A member 9",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.005G220900"
+        ],
+        "primary_id": "Potri.005G220900"
+    },
+    {
+        "pgnc_id": "PGNC:12515",
+        "taxon_id": 3694,
+        "chromosome": "5",
+        "gene_symbol_string": "CYP83F5",
+        "gene_name_string": "cytochrome P450 family 83 subfamily F member 5",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.005G236102"
+        ],
+        "primary_id": "Potri.005G236102"
+    },
+    {
+        "pgnc_id": "PGNC:12786",
+        "taxon_id": 3694,
+        "chromosome": "6",
+        "gene_symbol_string": "CYP97B7",
+        "gene_name_string": "cytochrome P450 family 97 subfamily B member 7",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.006G006200"
+        ],
+        "primary_id": "Potri.006G006200"
+    },
+    {
+        "pgnc_id": "PGNC:12919",
+        "taxon_id": 3694,
+        "chromosome": "6",
+        "gene_symbol_string": "CYP709F1",
+        "gene_name_string": "cytochrome P450 family 709 subfamily F member 1",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.006G022200"
+        ],
+        "primary_id": "Potri.006G022200"
+    },
+    {
+        "pgnc_id": "PGNC:12997",
+        "taxon_id": 3694,
+        "chromosome": "6",
+        "gene_symbol_string": "CYP98A27",
+        "gene_name_string": "cytochrome P450 family 98 subfamily A member 27",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.006G033300"
+        ],
+        "primary_id": "Potri.006G033300"
+    },
+    {
+        "pgnc_id": "PGNC:13000",
+        "taxon_id": 3694,
+        "chromosome": "6",
+        "gene_symbol_string": "CYP94D22",
+        "gene_name_string": "cytochrome P450 family 94 subfamily D member 22",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.006G033600"
+        ],
+        "primary_id": "Potri.006G033600"
+    },
+    {
+        "pgnc_id": "PGNC:13225",
+        "taxon_id": 3694,
+        "chromosome": "6",
+        "gene_symbol_string": "CYP712A3",
+        "gene_name_string": "cytochrome P450 family 712 subfamily A member 3",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.006G057900"
+        ],
+        "primary_id": "Potri.006G057900"
+    },
+    {
+        "pgnc_id": "PGNC:13226",
+        "taxon_id": 3694,
+        "chromosome": "6",
+        "gene_symbol_string": "CYP712C2",
+        "gene_name_string": "cytochrome P450 family 712 subfamily C member 2",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.006G058100"
+        ],
+        "primary_id": "Potri.006G058100"
+    },
+    {
+        "pgnc_id": "PGNC:13227",
+        "taxon_id": 3694,
+        "chromosome": "6",
+        "gene_symbol_string": "CYP93A6",
+        "gene_name_string": "cytochrome P450 family 93 subfamily A member 6",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.006G058200"
+        ],
+        "primary_id": "Potri.006G058200"
+    },
+    {
+        "pgnc_id": "PGNC:13481",
+        "taxon_id": 3694,
+        "chromosome": "6",
+        "gene_symbol_string": "CYP716A8",
+        "gene_name_string": "cytochrome P450 family 716 subfamily A member 8",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.006G085500"
+        ],
+        "primary_id": "Potri.006G085500"
+    },
+    {
+        "pgnc_id": "PGNC:13571",
+        "taxon_id": 3694,
+        "chromosome": "6",
+        "gene_symbol_string": "CYP76A8",
+        "gene_name_string": "cytochrome P450 family 76 subfamily A member 8",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.006G094700"
+        ],
+        "primary_id": "Potri.006G094700"
+    },
+    {
+        "pgnc_id": "PGNC:13796",
+        "taxon_id": 3694,
+        "chromosome": "6",
+        "gene_symbol_string": "CYP97C4",
+        "gene_name_string": "cytochrome P450 family 97 subfamily C member 4",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.006G119800"
+        ],
+        "primary_id": "Potri.006G119800"
+    },
+    {
+        "pgnc_id": "PGNC:13993",
+        "taxon_id": 3694,
+        "chromosome": "6",
+        "gene_symbol_string": "CYP92A24",
+        "gene_name_string": "cytochrome P450 family 92 subfamily A member 24",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.006G141400"
+        ],
+        "primary_id": "Potri.006G141400"
+    },
+    {
+        "pgnc_id": "PGNC:14101",
+        "taxon_id": 3694,
+        "chromosome": "6",
+        "gene_symbol_string": "CYP734A9",
+        "gene_name_string": "cytochrome P450 family 734 subfamily A member 9",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.006G154500"
+        ],
+        "primary_id": "Potri.006G154500"
+    },
+    {
+        "pgnc_id": "PGNC:14387",
+        "taxon_id": 3694,
+        "chromosome": "6",
+        "gene_symbol_string": "CYP712R2",
+        "gene_name_string": "cytochrome P450 family 712 subfamily R member 2",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.006G190800"
+        ],
+        "primary_id": "Potri.006G190800"
+    },
+    {
+        "pgnc_id": "PGNC:14719",
+        "taxon_id": 3694,
+        "chromosome": "6",
+        "gene_symbol_string": "CYP711A8",
+        "gene_name_string": "cytochrome P450 family 711 subfamily A member 8",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.006G226700"
+        ],
+        "primary_id": "Potri.006G226700"
+    },
+    {
+        "pgnc_id": "PGNC:15274",
+        "taxon_id": 3694,
+        "chromosome": "7",
+        "gene_symbol_string": "CYP716A10",
+        "gene_name_string": "cytochrome P450 family 716 subfamily A member 10",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.007G002400"
+        ],
+        "primary_id": "Potri.007G002400"
+    },
+    {
+        "pgnc_id": "PGNC:15407",
+        "taxon_id": 3694,
+        "chromosome": "7",
+        "gene_symbol_string": "CYP84A11",
+        "gene_name_string": "cytochrome P450 family 84 subfamily A member 11",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.007G016400"
+        ],
+        "primary_id": "Potri.007G016400"
+    },
+    {
+        "pgnc_id": "PGNC:15427",
+        "taxon_id": 3694,
+        "chromosome": "7",
+        "gene_symbol_string": "CYP90C3",
+        "gene_name_string": "cytochrome P450 family 90 subfamily C member 3",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.007G018400"
+        ],
+        "primary_id": "Potri.007G018400"
+    },
+    {
+        "pgnc_id": "PGNC:15506",
+        "taxon_id": 3694,
+        "chromosome": "7",
+        "gene_symbol_string": "CYP90B7",
+        "gene_name_string": "cytochrome P450 family 90 subfamily B member 7",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.007G026500"
+        ],
+        "primary_id": "Potri.007G026500"
+    },
+    {
+        "pgnc_id": "PGNC:15630",
+        "taxon_id": 3694,
+        "chromosome": "7",
+        "gene_symbol_string": "CYP92A22",
+        "gene_name_string": "cytochrome P450 family 92 subfamily A member 22",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.007G040200"
+        ],
+        "primary_id": "Potri.007G040200"
+    },
+    {
+        "pgnc_id": "PGNC:15721",
+        "taxon_id": 3694,
+        "chromosome": "7",
+        "gene_symbol_string": "CYP81S12",
+        "gene_name_string": "cytochrome P450 family 81 subfamily S member 12",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.007G049900"
+        ],
+        "primary_id": "Potri.007G049900"
+    },
+    {
+        "pgnc_id": "PGNC:15722",
+        "taxon_id": 3694,
+        "chromosome": "7",
+        "gene_symbol_string": "CYP81AN3",
+        "gene_name_string": "cytochrome P450 family 81 subfamily AN member 3",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.007G050000"
+        ],
+        "primary_id": "Potri.007G050000"
+    },
+    {
+        "pgnc_id": "PGNC:15950",
+        "taxon_id": 3694,
+        "chromosome": "7",
+        "gene_symbol_string": "CYP86B5",
+        "gene_name_string": "cytochrome P450 family 86 subfamily B member 5",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.007G072100"
+        ],
+        "primary_id": "Potri.007G072100"
+    },
+    {
+        "pgnc_id": "PGNC:15973",
+        "taxon_id": 3694,
+        "chromosome": "7",
+        "gene_symbol_string": "CYP71D41",
+        "gene_name_string": "cytochrome P450 family 71 subfamily D member 41",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.007G074300"
+        ],
+        "primary_id": "Potri.007G074300"
+    },
+    {
+        "pgnc_id": "PGNC:15980",
+        "taxon_id": 3694,
+        "chromosome": "7",
+        "gene_symbol_string": "CYP71D42A",
+        "gene_name_string": "cytochrome P450 family 71 subfamily D member 42A",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.007G074850"
+        ],
+        "primary_id": "Potri.007G074850"
+    },
+    {
+        "pgnc_id": "PGNC:15981",
+        "taxon_id": 3694,
+        "chromosome": "7",
+        "gene_symbol_string": "CYP71D42B",
+        "gene_name_string": "cytochrome P450 family 71 subfamily D member 42B",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.007G074900"
+        ],
+        "primary_id": "Potri.007G074900"
+    },
+    {
+        "pgnc_id": "PGNC:15982",
+        "taxon_id": 3694,
+        "chromosome": "7",
+        "gene_symbol_string": "CYP71D43",
+        "gene_name_string": "cytochrome P450 family 71 subfamily D member 43",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.007G075000"
+        ],
+        "primary_id": "Potri.007G075000"
+    },
+    {
+        "pgnc_id": "PGNC:16030",
+        "taxon_id": 3694,
+        "chromosome": "7",
+        "gene_symbol_string": "CYP96A17",
+        "gene_name_string": "cytochrome P450 family 96 subfamily A member 17",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.007G080300"
+        ],
+        "primary_id": "Potri.007G080300"
+    },
+    {
+        "pgnc_id": "PGNC:16038",
+        "taxon_id": 3694,
+        "chromosome": "7",
+        "gene_symbol_string": "CYP78A21",
+        "gene_name_string": "cytochrome P450 family 78 subfamily A member 21",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.007G081200"
+        ],
+        "primary_id": "Potri.007G081200"
+    },
+    {
+        "pgnc_id": "PGNC:16056",
+        "taxon_id": 3694,
+        "chromosome": "7",
+        "gene_symbol_string": "CYP736A11A",
+        "gene_name_string": "cytochrome P450 family 736 subfamily A member 11A",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.007G082900"
+        ],
+        "primary_id": "Potri.007G082900"
+    },
+    {
+        "pgnc_id": "PGNC:16057",
+        "taxon_id": 3694,
+        "chromosome": "7",
+        "gene_symbol_string": "CYP736A465A",
+        "gene_name_string": "cytochrome P450 family 736 subfamily A member 465A",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.007G083000"
+        ],
+        "primary_id": "Potri.007G083000"
+    },
+    {
+        "pgnc_id": "PGNC:16059",
+        "taxon_id": 3694,
+        "chromosome": "7",
+        "gene_symbol_string": "CYP736A465B",
+        "gene_name_string": "cytochrome P450 family 736 subfamily A member 465B",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.007G083300"
+        ],
+        "primary_id": "Potri.007G083300"
+    },
+    {
+        "pgnc_id": "PGNC:16060",
+        "taxon_id": 3694,
+        "chromosome": "7",
+        "gene_symbol_string": "CYP736A11B",
+        "gene_name_string": "cytochrome P450 family 736 subfamily A member 11B",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.007G083500"
+        ],
+        "primary_id": "Potri.007G083500"
+    },
+    {
+        "pgnc_id": "PGNC:16062",
+        "taxon_id": 3694,
+        "chromosome": "7",
+        "gene_symbol_string": "CYP736A466",
+        "gene_name_string": "cytochrome P450 family 736 subfamily A member 466",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.007G084200"
+        ],
+        "primary_id": "Potri.007G084200"
+    },
+    {
+        "pgnc_id": "PGNC:16065",
+        "taxon_id": 3694,
+        "chromosome": "7",
+        "gene_symbol_string": "CYP736A5",
+        "gene_name_string": "cytochrome P450 family 736 subfamily A member 5",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.007G084700"
+        ],
+        "primary_id": "Potri.007G084700"
+    },
+    {
+        "pgnc_id": "PGNC:16067",
+        "taxon_id": 3694,
+        "chromosome": "7",
+        "gene_symbol_string": "CYP736A4",
+        "gene_name_string": "cytochrome P450 family 736 subfamily A member 4",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.007G084800"
+        ],
+        "primary_id": "Potri.007G084800"
+    },
+    {
+        "pgnc_id": "PGNC:16069",
+        "taxon_id": 3694,
+        "chromosome": "7",
+        "gene_symbol_string": "CYP736A3",
+        "gene_name_string": "cytochrome P450 family 736 subfamily A member 3",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.007G085000"
+        ],
+        "primary_id": "Potri.007G085000"
+    },
+    {
+        "pgnc_id": "PGNC:16096",
+        "taxon_id": 3694,
+        "chromosome": "7",
+        "gene_symbol_string": "CYP89A17A",
+        "gene_name_string": "cytochrome P450 family 89 subfamily A member 17A",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.007G087950"
+        ],
+        "primary_id": "Potri.007G087950"
+    },
+    {
+        "pgnc_id": "PGNC:16097",
+        "taxon_id": 3694,
+        "chromosome": "7",
+        "gene_symbol_string": "CYP89A15",
+        "gene_name_string": "cytochrome P450 family 89 subfamily A member 15",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.007G088018"
+        ],
+        "primary_id": "Potri.007G088018"
+    },
+    {
+        "pgnc_id": "PGNC:16098",
+        "taxon_id": 3694,
+        "chromosome": "7",
+        "gene_symbol_string": "CYP89A17B",
+        "gene_name_string": "cytochrome P450 family 89 subfamily A member 17B",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.007G088086"
+        ],
+        "primary_id": "Potri.007G088086"
+    },
+    {
+        "pgnc_id": "PGNC:16099",
+        "taxon_id": 3694,
+        "chromosome": "7",
+        "gene_symbol_string": "CYP89A17C",
+        "gene_name_string": "cytochrome P450 family 89 subfamily A member 17C",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.007G088154"
+        ],
+        "primary_id": "Potri.007G088154"
+    },
+    {
+        "pgnc_id": "PGNC:16337",
+        "taxon_id": 3694,
+        "chromosome": "7",
+        "gene_symbol_string": "CYP81S13",
+        "gene_name_string": "cytochrome P450 family 81 subfamily S member 13",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.007G115500"
+        ],
+        "primary_id": "Potri.007G115500"
+    },
+    {
+        "pgnc_id": "PGNC:16834",
+        "taxon_id": 3694,
+        "chromosome": "8",
+        "gene_symbol_string": "CYP77A10",
+        "gene_name_string": "cytochrome P450 family 77 subfamily A member 10",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.008G025500"
+        ],
+        "primary_id": "Potri.008G025500"
+    },
+    {
+        "pgnc_id": "PGNC:16840",
+        "taxon_id": 3694,
+        "chromosome": "8",
+        "gene_symbol_string": "CYP714E5",
+        "gene_name_string": "cytochrome P450 family 714 subfamily E member 5",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.008G026200"
+        ],
+        "primary_id": "Potri.008G026200"
+    },
+    {
+        "pgnc_id": "PGNC:16842",
+        "taxon_id": 3694,
+        "chromosome": "8",
+        "gene_symbol_string": "CYP714E6",
+        "gene_name_string": "cytochrome P450 family 714 subfamily E member 6",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.008G026300"
+        ],
+        "primary_id": "Potri.008G026300"
+    },
+    {
+        "pgnc_id": "PGNC:17225",
+        "taxon_id": 3694,
+        "chromosome": "8",
+        "gene_symbol_string": "CYP90A6",
+        "gene_name_string": "cytochrome P450 family 90 subfamily A member 6",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.008G067500"
+        ],
+        "primary_id": "Potri.008G067500"
+    },
+    {
+        "pgnc_id": "PGNC:17421",
+        "taxon_id": 3694,
+        "chromosome": "8",
+        "gene_symbol_string": "CYP704B3",
+        "gene_name_string": "cytochrome P450 family 704 subfamily B member 3",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.008G088900"
+        ],
+        "primary_id": "Potri.008G088900"
+    },
+    {
+        "pgnc_id": "PGNC:17509",
+        "taxon_id": 3694,
+        "chromosome": "8",
+        "gene_symbol_string": "CYP89A23",
+        "gene_name_string": "cytochrome P450 family 89 subfamily A member 23",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.008G099100"
+        ],
+        "primary_id": "Potri.008G099100"
+    },
+    {
+        "pgnc_id": "PGNC:17751",
+        "taxon_id": 3694,
+        "chromosome": "8",
+        "gene_symbol_string": "CYP96H1",
+        "gene_name_string": "cytochrome P450 family 96 subfamily H member 1",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.008G125300"
+        ],
+        "primary_id": "Potri.008G125300"
+    },
+    {
+        "pgnc_id": "PGNC:18282",
+        "taxon_id": 3694,
+        "chromosome": "8",
+        "gene_symbol_string": "CYP86C5",
+        "gene_name_string": "cytochrome P450 family 86 subfamily C member 5",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.008G183300"
+        ],
+        "primary_id": "Potri.008G183300"
+    },
+    {
+        "pgnc_id": "PGNC:18288",
+        "taxon_id": 3694,
+        "chromosome": "8",
+        "gene_symbol_string": "CYP71B41",
+        "gene_name_string": "cytochrome P450 family 71 subfamily B member 41",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.008G184000"
+        ],
+        "primary_id": "Potri.008G184000"
+    },
+    {
+        "pgnc_id": "PGNC:18289",
+        "taxon_id": 3694,
+        "chromosome": "8",
+        "gene_symbol_string": "CYP71B40",
+        "gene_name_string": "cytochrome P450 family 71 subfamily B member 40",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.008G184400"
+        ],
+        "primary_id": "Potri.008G184400"
+    },
+    {
+        "pgnc_id": "PGNC:18292",
+        "taxon_id": 3694,
+        "chromosome": "8",
+        "gene_symbol_string": "CYP71B63",
+        "gene_name_string": "cytochrome P450 family 71 subfamily B member 63",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.008G184900"
+        ],
+        "primary_id": "Potri.008G184900"
+    },
+    {
+        "pgnc_id": "PGNC:18473",
+        "taxon_id": 3694,
+        "chromosome": "8",
+        "gene_symbol_string": "CYP81S14",
+        "gene_name_string": "cytochrome P450 family 81 subfamily S member 14",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.008G205200"
+        ],
+        "primary_id": "Potri.008G205200"
+    },
+    {
+        "pgnc_id": "PGNC:18603",
+        "taxon_id": 3694,
+        "chromosome": "8",
+        "gene_symbol_string": "CYP71D26",
+        "gene_name_string": "cytochrome P450 family 71 subfamily D member 26",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.008G223500"
+        ],
+        "primary_id": "Potri.008G223500"
+    },
+    {
+        "pgnc_id": "PGNC:18925",
+        "taxon_id": 3694,
+        "chromosome": "9",
+        "gene_symbol_string": "CYP707A10",
+        "gene_name_string": "cytochrome P450 family 707 subfamily A member 10",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.009G033900"
+        ],
+        "primary_id": "Potri.009G033900"
+    },
+    {
+        "pgnc_id": "PGNC:19010",
+        "taxon_id": 3694,
+        "chromosome": "9",
+        "gene_symbol_string": "CYP86A19",
+        "gene_name_string": "cytochrome P450 family 86 subfamily A member 19",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.009G043700"
+        ],
+        "primary_id": "Potri.009G043700"
+    },
+    {
+        "pgnc_id": "PGNC:19205",
+        "taxon_id": 3694,
+        "chromosome": "9",
+        "gene_symbol_string": "CYP87D10",
+        "gene_name_string": "cytochrome P450 family 87 subfamily D member 10",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.009G064800"
+        ],
+        "primary_id": "Potri.009G064800"
+    },
+    {
+        "pgnc_id": "PGNC:19206",
+        "taxon_id": 3694,
+        "chromosome": "9",
+        "gene_symbol_string": "CYP87D9",
+        "gene_name_string": "cytochrome P450 family 87 subfamily D member 9",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.009G064900"
+        ],
+        "primary_id": "Potri.009G064900"
+    },
+    {
+        "pgnc_id": "PGNC:19208",
+        "taxon_id": 3694,
+        "chromosome": "9",
+        "gene_symbol_string": "CYP712E5",
+        "gene_name_string": "cytochrome P450 family 712 subfamily E member 5",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.009G065000"
+        ],
+        "primary_id": "Potri.009G065000"
+    },
+    {
+        "pgnc_id": "PGNC:19218",
+        "taxon_id": 3694,
+        "chromosome": "9",
+        "gene_symbol_string": "CYP712E2",
+        "gene_name_string": "cytochrome P450 family 712 subfamily E member 2",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.009G066200"
+        ],
+        "primary_id": "Potri.009G066200"
+    },
+    {
+        "pgnc_id": "PGNC:19219",
+        "taxon_id": 3694,
+        "chromosome": "9",
+        "gene_symbol_string": "CYP712E1",
+        "gene_name_string": "cytochrome P450 family 712 subfamily E member 1",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.009G066300"
+        ],
+        "primary_id": "Potri.009G066300"
+    },
+    {
+        "pgnc_id": "PGNC:19243",
+        "taxon_id": 3694,
+        "chromosome": "9",
+        "gene_symbol_string": "CYP75A12",
+        "gene_name_string": "cytochrome P450 family 75 subfamily A member 12",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.009G069100"
+        ],
+        "primary_id": "Potri.009G069100"
+    },
+    {
+        "pgnc_id": "PGNC:19536",
+        "taxon_id": 3694,
+        "chromosome": "9",
+        "gene_symbol_string": "CYP707A11",
+        "gene_name_string": "cytochrome P450 family 707 subfamily A member 11",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.009G101700"
+        ],
+        "primary_id": "Potri.009G101700"
+    },
+    {
+        "pgnc_id": "PGNC:19600",
+        "taxon_id": 3694,
+        "chromosome": "9",
+        "gene_symbol_string": "CYP82C15A",
+        "gene_name_string": "cytochrome P450 family 82 subfamily C member 15A",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.009G108600"
+        ],
+        "primary_id": "Potri.009G108600"
+    },
+    {
+        "pgnc_id": "PGNC:19611",
+        "taxon_id": 3694,
+        "chromosome": "9",
+        "gene_symbol_string": "CYP74C8",
+        "gene_name_string": "cytochrome P450 family 74 subfamily C member 8",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.009G109700"
+        ],
+        "primary_id": "Potri.009G109700"
+    },
+    {
+        "pgnc_id": "PGNC:19730",
+        "taxon_id": 3694,
+        "chromosome": "9",
+        "gene_symbol_string": "CYP84A12",
+        "gene_name_string": "cytochrome P450 family 84 subfamily A member 12",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.009G123600"
+        ],
+        "primary_id": "Potri.009G123600"
+    },
+    {
+        "pgnc_id": "PGNC:19911",
+        "taxon_id": 3694,
+        "chromosome": "9",
+        "gene_symbol_string": "CYP87D8",
+        "gene_name_string": "cytochrome P450 family 87 subfamily D member 8",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.009G143600"
+        ],
+        "primary_id": "Potri.009G143600"
+    },
+    {
+        "pgnc_id": "PGNC:19926",
+        "taxon_id": 3694,
+        "chromosome": "9",
+        "gene_symbol_string": "CYP94C5",
+        "gene_name_string": "cytochrome P450 family 94 subfamily C member 5",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.009G145400"
+        ],
+        "primary_id": "Potri.009G145400"
+    },
+    {
+        "pgnc_id": "PGNC:20558",
+        "taxon_id": 3694,
+        "chromosome": "10",
+        "gene_symbol_string": "CYP86C6",
+        "gene_name_string": "cytochrome P450 family 86 subfamily C member 6",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.010G050100"
+        ],
+        "primary_id": "Potri.010G050100"
+    },
+    {
+        "pgnc_id": "PGNC:21164",
+        "taxon_id": 3694,
+        "chromosome": "10",
+        "gene_symbol_string": "CYP714F1",
+        "gene_name_string": "cytochrome P450 family 714 subfamily F member 1",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.010G116300"
+        ],
+        "primary_id": "Potri.010G116300"
+    },
+    {
+        "pgnc_id": "PGNC:21378",
+        "taxon_id": 3694,
+        "chromosome": "10",
+        "gene_symbol_string": "CYP749A4",
+        "gene_name_string": "cytochrome P450 family 749 subfamily A member 4",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.010G139200"
+        ],
+        "primary_id": "Potri.010G139200"
+    },
+    {
+        "pgnc_id": "PGNC:21379",
+        "taxon_id": 3694,
+        "chromosome": "10",
+        "gene_symbol_string": "CYP749A5",
+        "gene_name_string": "cytochrome P450 family 749 subfamily A member 5",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.010G139300"
+        ],
+        "primary_id": "Potri.010G139300"
+    },
+    {
+        "pgnc_id": "PGNC:21380",
+        "taxon_id": 3694,
+        "chromosome": "10",
+        "gene_symbol_string": "CYP749A6",
+        "gene_name_string": "cytochrome P450 family 749 subfamily A member 6",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.010G139400"
+        ],
+        "primary_id": "Potri.010G139400"
+    },
+    {
+        "pgnc_id": "PGNC:21381",
+        "taxon_id": 3694,
+        "chromosome": "10",
+        "gene_symbol_string": "CYP749A7",
+        "gene_name_string": "cytochrome P450 family 749 subfamily A member 7",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.010G139500"
+        ],
+        "primary_id": "Potri.010G139500"
+    },
+    {
+        "pgnc_id": "PGNC:21383",
+        "taxon_id": 3694,
+        "chromosome": "10",
+        "gene_symbol_string": "CYP749A9",
+        "gene_name_string": "cytochrome P450 family 749 subfamily A member 9",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.010G139600"
+        ],
+        "primary_id": "Potri.010G139600"
+    },
+    {
+        "pgnc_id": "PGNC:21534",
+        "taxon_id": 3694,
+        "chromosome": "10",
+        "gene_symbol_string": "CYP85A4",
+        "gene_name_string": "cytochrome P450 family 85 subfamily A member 4",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.010G156800"
+        ],
+        "primary_id": "Potri.010G156800"
+    },
+    {
+        "pgnc_id": "PGNC:21833",
+        "taxon_id": 3694,
+        "chromosome": "10",
+        "gene_symbol_string": "CYP90A7",
+        "gene_name_string": "cytochrome P450 family 90 subfamily A member 7",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.010G189800"
+        ],
+        "primary_id": "Potri.010G189800"
+    },
+    {
+        "pgnc_id": "PGNC:22269",
+        "taxon_id": 3694,
+        "chromosome": "10",
+        "gene_symbol_string": "CYP94C8",
+        "gene_name_string": "cytochrome P450 family 94 subfamily C member 8",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.010G236700"
+        ],
+        "primary_id": "Potri.010G236700"
+    },
+    {
+        "pgnc_id": "PGNC:22454",
+        "taxon_id": 3694,
+        "chromosome": "11",
+        "gene_symbol_string": "CYP728D2",
+        "gene_name_string": "cytochrome P450 family 728 subfamily D member 2",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.011G001300"
+        ],
+        "primary_id": "Potri.011G001300"
+    },
+    {
+        "pgnc_id": "PGNC:22457",
+        "taxon_id": 3694,
+        "chromosome": "11",
+        "gene_symbol_string": "CYP728D4",
+        "gene_name_string": "cytochrome P450 family 728 subfamily D member 4",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.011G001500"
+        ],
+        "primary_id": "Potri.011G001500"
+    },
+    {
+        "pgnc_id": "PGNC:23261",
+        "taxon_id": 3694,
+        "chromosome": "11",
+        "gene_symbol_string": "CYP72A47A",
+        "gene_name_string": "cytochrome P450 family 72 subfamily A member 47A",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.011G098800"
+        ],
+        "primary_id": "Potri.011G098800"
+    },
+    {
+        "pgnc_id": "PGNC:23264",
+        "taxon_id": 3694,
+        "chromosome": "11",
+        "gene_symbol_string": "CYP72A42A",
+        "gene_name_string": "cytochrome P450 family 72 subfamily A member 42A",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.011G099400"
+        ],
+        "primary_id": "Potri.011G099400"
+    },
+    {
+        "pgnc_id": "PGNC:23268",
+        "taxon_id": 3694,
+        "chromosome": "11",
+        "gene_symbol_string": "CYP72A42B",
+        "gene_name_string": "cytochrome P450 family 72 subfamily A member 42B",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.011G099800"
+        ],
+        "primary_id": "Potri.011G099800"
+    },
+    {
+        "pgnc_id": "PGNC:23273",
+        "taxon_id": 3694,
+        "chromosome": "11",
+        "gene_symbol_string": "CYP72A42C",
+        "gene_name_string": "cytochrome P450 family 72 subfamily A member 42C",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.011G101401"
+        ],
+        "primary_id": "Potri.011G101401"
+    },
+    {
+        "pgnc_id": "PGNC:23275",
+        "taxon_id": 3694,
+        "chromosome": "11",
+        "gene_symbol_string": "CYP72A43",
+        "gene_name_string": "cytochrome P450 family 72 subfamily A member 43",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.011G101500"
+        ],
+        "primary_id": "Potri.011G101500"
+    },
+    {
+        "pgnc_id": "PGNC:23276",
+        "taxon_id": 3694,
+        "chromosome": "11",
+        "gene_symbol_string": "CYP72A44",
+        "gene_name_string": "cytochrome P450 family 72 subfamily A member 44",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.011G101700"
+        ],
+        "primary_id": "Potri.011G101700"
+    },
+    {
+        "pgnc_id": "PGNC:23411",
+        "taxon_id": 3694,
+        "chromosome": "11",
+        "gene_symbol_string": "CYP72D1",
+        "gene_name_string": "cytochrome P450 family 72 subfamily D member 1",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.011G117600"
+        ],
+        "primary_id": "Potri.011G117600"
+    },
+    {
+        "pgnc_id": "PGNC:23412",
+        "taxon_id": 3694,
+        "chromosome": "11",
+        "gene_symbol_string": "CYP72D2",
+        "gene_name_string": "cytochrome P450 family 72 subfamily D member 2",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.011G117700"
+        ],
+        "primary_id": "Potri.011G117700"
+    },
+    {
+        "pgnc_id": "PGNC:23555",
+        "taxon_id": 3694,
+        "chromosome": "11",
+        "gene_symbol_string": "CYP71D38B",
+        "gene_name_string": "cytochrome P450 family 71 subfamily D member 38B",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.011G130800"
+        ],
+        "primary_id": "Potri.011G130800"
+    },
+    {
+        "pgnc_id": "PGNC:23556",
+        "taxon_id": 3694,
+        "chromosome": "11",
+        "gene_symbol_string": "CYP71D38A",
+        "gene_name_string": "cytochrome P450 family 71 subfamily D member 38A",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.011G130850"
+        ],
+        "primary_id": "Potri.011G130850"
+    },
+    {
+        "pgnc_id": "PGNC:23779",
+        "taxon_id": 3694,
+        "chromosome": "11",
+        "gene_symbol_string": "CYP716C1",
+        "gene_name_string": "cytochrome P450 family 716 subfamily C member 1",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.011G155600"
+        ],
+        "primary_id": "Potri.011G155600"
+    },
+    {
+        "pgnc_id": "PGNC:24501",
+        "taxon_id": 3694,
+        "chromosome": "12",
+        "gene_symbol_string": "CYP729A3",
+        "gene_name_string": "cytochrome P450 family 729 subfamily A member 3",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.012G071300"
+        ],
+        "primary_id": "Potri.012G071300"
+    },
+    {
+        "pgnc_id": "PGNC:24658",
+        "taxon_id": 3694,
+        "chromosome": "12",
+        "gene_symbol_string": "CYP71AN4",
+        "gene_name_string": "cytochrome P450 family 71 subfamily AN member 4",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.012G089600"
+        ],
+        "primary_id": "Potri.012G089600"
+    },
+    {
+        "pgnc_id": "PGNC:24661",
+        "taxon_id": 3694,
+        "chromosome": "12",
+        "gene_symbol_string": "CYP71AP2",
+        "gene_name_string": "cytochrome P450 family 71 subfamily AP member 2",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.012G089900"
+        ],
+        "primary_id": "Potri.012G089900"
+    },
+    {
+        "pgnc_id": "PGNC:24662",
+        "taxon_id": 3694,
+        "chromosome": "12",
+        "gene_symbol_string": "CYP71AP3",
+        "gene_name_string": "cytochrome P450 family 71 subfamily AP member 3",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.012G090000"
+        ],
+        "primary_id": "Potri.012G090000"
+    },
+    {
+        "pgnc_id": "PGNC:24724",
+        "taxon_id": 3694,
+        "chromosome": "12",
+        "gene_symbol_string": "CYP94B6",
+        "gene_name_string": "cytochrome P450 family 94 subfamily B member 6",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.012G096800"
+        ],
+        "primary_id": "Potri.012G096800"
+    },
+    {
+        "pgnc_id": "PGNC:24883",
+        "taxon_id": 3694,
+        "chromosome": "12",
+        "gene_symbol_string": "CYP728F1",
+        "gene_name_string": "cytochrome P450 family 728 subfamily F member 1",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.012G115000"
+        ],
+        "primary_id": "Potri.012G115000"
+    },
+    {
+        "pgnc_id": "PGNC:25032",
+        "taxon_id": 3694,
+        "chromosome": "12",
+        "gene_symbol_string": "CYP704A12",
+        "gene_name_string": "cytochrome P450 family 704 subfamily A member 12",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.012G131200"
+        ],
+        "primary_id": "Potri.012G131200"
+    },
+    {
+        "pgnc_id": "PGNC:25080",
+        "taxon_id": 3694,
+        "chromosome": "12",
+        "gene_symbol_string": "CYP80D1",
+        "gene_name_string": "cytochrome P450 family 80 subfamily D member 1",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.012G136600"
+        ],
+        "primary_id": "Potri.012G136600"
+    },
+    {
+        "pgnc_id": "PGNC:25082",
+        "taxon_id": 3694,
+        "chromosome": "12",
+        "gene_symbol_string": "CYP80D2",
+        "gene_name_string": "cytochrome P450 family 80 subfamily D member 2",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.012G136800"
+        ],
+        "primary_id": "Potri.012G136800"
+    },
+    {
+        "pgnc_id": "PGNC:25084",
+        "taxon_id": 3694,
+        "chromosome": "12",
+        "gene_symbol_string": "CYP80C1",
+        "gene_name_string": "cytochrome P450 family 80 subfamily C member 1",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.012G137200"
+        ],
+        "primary_id": "Potri.012G137200"
+    },
+    {
+        "pgnc_id": "PGNC:25129",
+        "taxon_id": 3694,
+        "chromosome": "12",
+        "gene_symbol_string": "CYP715A2",
+        "gene_name_string": "cytochrome P450 family 715 subfamily A member 2",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.012G142000"
+        ],
+        "primary_id": "Potri.012G142000"
+    },
+    {
+        "pgnc_id": "PGNC:25409",
+        "taxon_id": 3694,
+        "chromosome": "13",
+        "gene_symbol_string": "CYP93B7",
+        "gene_name_string": "cytochrome P450 family 93 subfamily B member 7",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.013G027000"
+        ],
+        "primary_id": "Potri.013G027000"
+    },
+    {
+        "pgnc_id": "PGNC:25820",
+        "taxon_id": 3694,
+        "chromosome": "13",
+        "gene_symbol_string": "CYP75B12",
+        "gene_name_string": "cytochrome P450 family 75 subfamily B member 12",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.013G073300"
+        ],
+        "primary_id": "Potri.013G073300"
+    },
+    {
+        "pgnc_id": "PGNC:25841",
+        "taxon_id": 3694,
+        "chromosome": "13",
+        "gene_symbol_string": "CYP94C7",
+        "gene_name_string": "cytochrome P450 family 94 subfamily C member 7",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.013G075600"
+        ],
+        "primary_id": "Potri.013G075600"
+    },
+    {
+        "pgnc_id": "PGNC:25849",
+        "taxon_id": 3694,
+        "chromosome": "13",
+        "gene_symbol_string": "CYP89A12",
+        "gene_name_string": "cytochrome P450 family 89 subfamily A member 12",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.013G076600"
+        ],
+        "primary_id": "Potri.013G076600"
+    },
+    {
+        "pgnc_id": "PGNC:25850",
+        "taxon_id": 3694,
+        "chromosome": "13",
+        "gene_symbol_string": "CYP89A13",
+        "gene_name_string": "cytochrome P450 family 89 subfamily A member 13",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.013G076700"
+        ],
+        "primary_id": "Potri.013G076700"
+    },
+    {
+        "pgnc_id": "PGNC:25934",
+        "taxon_id": 3694,
+        "chromosome": "13",
+        "gene_symbol_string": "CYP97A7",
+        "gene_name_string": "cytochrome P450 family 97 subfamily A member 7",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.013G088100"
+        ],
+        "primary_id": "Potri.013G088100"
+    },
+    {
+        "pgnc_id": "PGNC:26084",
+        "taxon_id": 3694,
+        "chromosome": "13",
+        "gene_symbol_string": "CYP716E2",
+        "gene_name_string": "cytochrome P450 family 716 subfamily E member 2",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.013G106100"
+        ],
+        "primary_id": "Potri.013G106100"
+    },
+    {
+        "pgnc_id": "PGNC:26085",
+        "taxon_id": 3694,
+        "chromosome": "13",
+        "gene_symbol_string": "CYP716E1",
+        "gene_name_string": "cytochrome P450 family 716 subfamily E member 1",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.013G106200"
+        ],
+        "primary_id": "Potri.013G106200"
+    },
+    {
+        "pgnc_id": "PGNC:26249",
+        "taxon_id": 3694,
+        "chromosome": "13",
+        "gene_symbol_string": "CYP82L2",
+        "gene_name_string": "cytochrome P450 family 82 subfamily L member 2",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.013G125300"
+        ],
+        "primary_id": "Potri.013G125300"
+    },
+    {
+        "pgnc_id": "PGNC:26497",
+        "taxon_id": 3694,
+        "chromosome": "13",
+        "gene_symbol_string": "CYP79DA6",
+        "gene_name_string": "cytochrome P450 family 79 subfamily DA member 6",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.013G157200"
+        ],
+        "primary_id": "Potri.013G157200"
+    },
+    {
+        "pgnc_id": "PGNC:26499",
+        "taxon_id": 3694,
+        "chromosome": "13",
+        "gene_symbol_string": "CYP79DA5",
+        "gene_name_string": "cytochrome P450 family 79 subfamily DA member 5",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.013G157400"
+        ],
+        "primary_id": "Potri.013G157400"
+    },
+    {
+        "pgnc_id": "PGNC:26504",
+        "taxon_id": 3694,
+        "chromosome": "13",
+        "gene_symbol_string": "CYP73A42",
+        "gene_name_string": "cytochrome P450 family 73 subfamily A member 42",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.013G157900"
+        ],
+        "primary_id": "Potri.013G157900"
+    },
+    {
+        "pgnc_id": "PGNC:26528",
+        "taxon_id": 3694,
+        "chromosome": "13",
+        "gene_symbol_string": "CYP714E4",
+        "gene_name_string": "cytochrome P450 family 714 subfamily E member 4",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.013G160800"
+        ],
+        "primary_id": "Potri.013G160800"
+    },
+    {
+        "pgnc_id": "PGNC:26537",
+        "taxon_id": 3694,
+        "chromosome": "13",
+        "gene_symbol_string": "CYP88A8",
+        "gene_name_string": "cytochrome P450 family 88 subfamily A member 8",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.013G161800"
+        ],
+        "primary_id": "Potri.013G161800"
+    },
+    {
+        "pgnc_id": "PGNC:26692",
+        "taxon_id": 3694,
+        "chromosome": "14",
+        "gene_symbol_string": "CYP81B12",
+        "gene_name_string": "cytochrome P450 family 81 subfamily B member 12",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.014G020432"
+        ],
+        "primary_id": "Potri.014G020432"
+    },
+    {
+        "pgnc_id": "PGNC:26693",
+        "taxon_id": 3694,
+        "chromosome": "14",
+        "gene_symbol_string": "CYP81B11",
+        "gene_name_string": "cytochrome P450 family 81 subfamily B member 11",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.014G020500"
+        ],
+        "primary_id": "Potri.014G020500"
+    },
+    {
+        "pgnc_id": "PGNC:26700",
+        "taxon_id": 3694,
+        "chromosome": "14",
+        "gene_symbol_string": "CYP81BQ1",
+        "gene_name_string": "cytochrome P450 family 81 subfamily BQ member 1",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.014G021400"
+        ],
+        "primary_id": "Potri.014G021400"
+    },
+    {
+        "pgnc_id": "PGNC:26701",
+        "taxon_id": 3694,
+        "chromosome": "14",
+        "gene_symbol_string": "CYP81R4",
+        "gene_name_string": "cytochrome P450 family 81 subfamily R member 4",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.014G021700"
+        ],
+        "primary_id": "Potri.014G021700"
+    },
+    {
+        "pgnc_id": "PGNC:26702",
+        "taxon_id": 3694,
+        "chromosome": "14",
+        "gene_symbol_string": "CYP81T1",
+        "gene_name_string": "cytochrome P450 family 81 subfamily T member 1",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.014G021800"
+        ],
+        "primary_id": "Potri.014G021800"
+    },
+    {
+        "pgnc_id": "PGNC:26769",
+        "taxon_id": 3694,
+        "chromosome": "14",
+        "gene_symbol_string": "CYP707A13",
+        "gene_name_string": "cytochrome P450 family 707 subfamily A member 13",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.014G029100"
+        ],
+        "primary_id": "Potri.014G029100"
+    },
+    {
+        "pgnc_id": "PGNC:26841",
+        "taxon_id": 3694,
+        "chromosome": "14",
+        "gene_symbol_string": "CYP82C5A",
+        "gene_name_string": "cytochrome P450 family 82 subfamily C member 5A",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.014G037300"
+        ],
+        "primary_id": "Potri.014G037300"
+    },
+    {
+        "pgnc_id": "PGNC:26843",
+        "taxon_id": 3694,
+        "chromosome": "14",
+        "gene_symbol_string": "CYP82C5B",
+        "gene_name_string": "cytochrome P450 family 82 subfamily C member 5B",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.014G037500"
+        ],
+        "primary_id": "Potri.014G037500"
+    },
+    {
+        "pgnc_id": "PGNC:26845",
+        "taxon_id": 3694,
+        "chromosome": "14",
+        "gene_symbol_string": "CYP82D223A",
+        "gene_name_string": "cytochrome P450 family 82 subfamily D member 223A",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.014G037700"
+        ],
+        "primary_id": "Potri.014G037700"
+    },
+    {
+        "pgnc_id": "PGNC:26847",
+        "taxon_id": 3694,
+        "chromosome": "14",
+        "gene_symbol_string": "CYP82D2",
+        "gene_name_string": "cytochrome P450 family 82 subfamily D member 2",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.014G037900"
+        ],
+        "primary_id": "Potri.014G037900"
+    },
+    {
+        "pgnc_id": "PGNC:26848",
+        "taxon_id": 3694,
+        "chromosome": "14",
+        "gene_symbol_string": "CYP82D224",
+        "gene_name_string": "cytochrome P450 family 82 subfamily D member 224",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.014G038000"
+        ],
+        "primary_id": "Potri.014G038000"
+    },
+    {
+        "pgnc_id": "PGNC:26849",
+        "taxon_id": 3694,
+        "chromosome": "14",
+        "gene_symbol_string": "CYP82D225A",
+        "gene_name_string": "cytochrome P450 family 82 subfamily D member 225A",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.014G038100"
+        ],
+        "primary_id": "Potri.014G038100"
+    },
+    {
+        "pgnc_id": "PGNC:26850",
+        "taxon_id": 3694,
+        "chromosome": "14",
+        "gene_symbol_string": "CYP82D225B",
+        "gene_name_string": "cytochrome P450 family 82 subfamily D member 225B",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.014G038200"
+        ],
+        "primary_id": "Potri.014G038200"
+    },
+    {
+        "pgnc_id": "PGNC:26855",
+        "taxon_id": 3694,
+        "chromosome": "14",
+        "gene_symbol_string": "CYP74A7",
+        "gene_name_string": "cytochrome P450 family 74 subfamily A member 7",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.014G038700"
+        ],
+        "primary_id": "Potri.014G038700"
+    },
+    {
+        "pgnc_id": "PGNC:26894",
+        "taxon_id": 3694,
+        "chromosome": "14",
+        "gene_symbol_string": "CYP721A5",
+        "gene_name_string": "cytochrome P450 family 721 subfamily A member 5",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.014G043000"
+        ],
+        "primary_id": "Potri.014G043000"
+    },
+    {
+        "pgnc_id": "PGNC:26895",
+        "taxon_id": 3694,
+        "chromosome": "14",
+        "gene_symbol_string": "CYP721A4",
+        "gene_name_string": "cytochrome P450 family 721 subfamily A member 4",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.014G043100"
+        ],
+        "primary_id": "Potri.014G043100"
+    },
+    {
+        "pgnc_id": "PGNC:26967",
+        "taxon_id": 3694,
+        "chromosome": "14",
+        "gene_symbol_string": "CYP714E2",
+        "gene_name_string": "cytochrome P450 family 714 subfamily E member 2",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.014G052000"
+        ],
+        "primary_id": "Potri.014G052000"
+    },
+    {
+        "pgnc_id": "PGNC:27122",
+        "taxon_id": 3694,
+        "chromosome": "14",
+        "gene_symbol_string": "CYP704A9",
+        "gene_name_string": "cytochrome P450 family 704 subfamily A member 9",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.014G072000"
+        ],
+        "primary_id": "Potri.014G072000"
+    },
+    {
+        "pgnc_id": "PGNC:27123",
+        "taxon_id": 3694,
+        "chromosome": "14",
+        "gene_symbol_string": "CYP704A10",
+        "gene_name_string": "cytochrome P450 family 704 subfamily A member 10",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.014G072100"
+        ],
+        "primary_id": "Potri.014G072100"
+    },
+    {
+        "pgnc_id": "PGNC:27124",
+        "taxon_id": 3694,
+        "chromosome": "14",
+        "gene_symbol_string": "CYP704A11",
+        "gene_name_string": "cytochrome P450 family 704 subfamily A member 11",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.014G072300"
+        ],
+        "primary_id": "Potri.014G072300"
+    },
+    {
+        "pgnc_id": "PGNC:27250",
+        "taxon_id": 3694,
+        "chromosome": "14",
+        "gene_symbol_string": "CYP86A20",
+        "gene_name_string": "cytochrome P450 family 86 subfamily A member 20",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.014G085800"
+        ],
+        "primary_id": "Potri.014G085800"
+    },
+    {
+        "pgnc_id": "PGNC:27407",
+        "taxon_id": 3694,
+        "chromosome": "14",
+        "gene_symbol_string": "CYP78A25",
+        "gene_name_string": "cytochrome P450 family 78 subfamily A member 25",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.014G102700"
+        ],
+        "primary_id": "Potri.014G102700"
+    },
+    {
+        "pgnc_id": "PGNC:27892",
+        "taxon_id": 3694,
+        "chromosome": "14",
+        "gene_symbol_string": "CYP74B7",
+        "gene_name_string": "cytochrome P450 family 74 subfamily B member 7",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.014G155800"
+        ],
+        "primary_id": "Potri.014G155800"
+    },
+    {
+        "pgnc_id": "PGNC:28032",
+        "taxon_id": 3694,
+        "chromosome": "14",
+        "gene_symbol_string": "CYP724B7",
+        "gene_name_string": "cytochrome P450 family 724 subfamily B member 7",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.014G171700"
+        ],
+        "primary_id": "Potri.014G171700"
+    },
+    {
+        "pgnc_id": "PGNC:28083",
+        "taxon_id": 3694,
+        "chromosome": "14",
+        "gene_symbol_string": "CYP88A9",
+        "gene_name_string": "cytochrome P450 family 88 subfamily A member 9",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.014G179100"
+        ],
+        "primary_id": "Potri.014G179100"
+    },
+    {
+        "pgnc_id": "PGNC:28094",
+        "taxon_id": 3694,
+        "chromosome": "14",
+        "gene_symbol_string": "CYP721A8",
+        "gene_name_string": "cytochrome P450 family 721 subfamily A member 8",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.014G180500"
+        ],
+        "primary_id": "Potri.014G180500"
+    },
+    {
+        "pgnc_id": "PGNC:28277",
+        "taxon_id": 3694,
+        "chromosome": "15",
+        "gene_symbol_string": "CYP89A22",
+        "gene_name_string": "cytochrome P450 family 89 subfamily A member 22",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.015G006100"
+        ],
+        "primary_id": "Potri.015G006100"
+    },
+    {
+        "pgnc_id": "PGNC:28462",
+        "taxon_id": 3694,
+        "chromosome": "15",
+        "gene_symbol_string": "CYP71D22",
+        "gene_name_string": "cytochrome P450 family 71 subfamily D member 22",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.015G028000"
+        ],
+        "primary_id": "Potri.015G028000"
+    },
+    {
+        "pgnc_id": "PGNC:28945",
+        "taxon_id": 3694,
+        "chromosome": "15",
+        "gene_symbol_string": "CYP71AN5",
+        "gene_name_string": "cytochrome P450 family 71 subfamily AN member 5",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.015G085600"
+        ],
+        "primary_id": "Potri.015G085600"
+    },
+    {
+        "pgnc_id": "PGNC:28947",
+        "taxon_id": 3694,
+        "chromosome": "15",
+        "gene_symbol_string": "CYP71AQ1",
+        "gene_name_string": "cytochrome P450 family 71 subfamily AQ member 1",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.015G085800"
+        ],
+        "primary_id": "Potri.015G085800"
+    },
+    {
+        "pgnc_id": "PGNC:28948",
+        "taxon_id": 3694,
+        "chromosome": "15",
+        "gene_symbol_string": "CYP71AP4",
+        "gene_name_string": "cytochrome P450 family 71 subfamily AP member 4",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.015G086000"
+        ],
+        "primary_id": "Potri.015G086000"
+    },
+    {
+        "pgnc_id": "PGNC:28955",
+        "taxon_id": 3694,
+        "chromosome": "15",
+        "gene_symbol_string": "CYP96F3",
+        "gene_name_string": "cytochrome P450 family 96 subfamily F member 3",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.015G086900"
+        ],
+        "primary_id": "Potri.015G086900"
+    },
+    {
+        "pgnc_id": "PGNC:28956",
+        "taxon_id": 3694,
+        "chromosome": "15",
+        "gene_symbol_string": "CYP96F4",
+        "gene_name_string": "cytochrome P450 family 96 subfamily F member 4",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.015G087000"
+        ],
+        "primary_id": "Potri.015G087000"
+    },
+    {
+        "pgnc_id": "PGNC:29356",
+        "taxon_id": 3694,
+        "chromosome": "15",
+        "gene_symbol_string": "CYP96A16",
+        "gene_name_string": "cytochrome P450 family 96 subfamily A member 16",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.015G132800"
+        ],
+        "primary_id": "Potri.015G132800"
+    },
+    {
+        "pgnc_id": "PGNC:29406",
+        "taxon_id": 3694,
+        "chromosome": "15",
+        "gene_symbol_string": "CYP80C2",
+        "gene_name_string": "cytochrome P450 family 80 subfamily C member 2",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.015G138900"
+        ],
+        "primary_id": "Potri.015G138900"
+    },
+    {
+        "pgnc_id": "PGNC:29460",
+        "taxon_id": 3694,
+        "chromosome": "15",
+        "gene_symbol_string": "CYP715A3",
+        "gene_name_string": "cytochrome P450 family 715 subfamily A member 3",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.015G145100"
+        ],
+        "primary_id": "Potri.015G145100"
+    },
+    {
+        "pgnc_id": "PGNC:29566",
+        "taxon_id": 3694,
+        "chromosome": "16",
+        "gene_symbol_string": "CYP82K1",
+        "gene_name_string": "cytochrome P450 family 82 subfamily K member 1",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.016G008500"
+        ],
+        "primary_id": "Potri.016G008500"
+    },
+    {
+        "pgnc_id": "PGNC:45",
+        "taxon_id": 3694,
+        "chromosome": "1",
+        "gene_symbol_string": "CYP716D1",
+        "gene_name_string": "cytochrome P450 family 716 subfamily D member 1",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.001G002800"
+        ],
+        "primary_id": "Potri.001G002800"
+    },
+    {
+        "pgnc_id": "PGNC:46",
+        "taxon_id": 3694,
+        "chromosome": "1",
+        "gene_symbol_string": "CYP716D2",
+        "gene_name_string": "cytochrome P450 family 716 subfamily D member 2",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.001G003000"
+        ],
+        "primary_id": "Potri.001G003000"
+    },
+    {
+        "pgnc_id": "PGNC:47",
+        "taxon_id": 3694,
+        "chromosome": "1",
+        "gene_symbol_string": "CYP716D3",
+        "gene_name_string": "cytochrome P450 family 716 subfamily D member 3",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.001G003100"
+        ],
+        "primary_id": "Potri.001G003100"
+    },
+    {
+        "pgnc_id": "PGNC:29757",
+        "taxon_id": 3694,
+        "chromosome": "16",
+        "gene_symbol_string": "CYP98A25",
+        "gene_name_string": "cytochrome P450 family 98 subfamily A member 25",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.016G031000"
+        ],
+        "primary_id": "Potri.016G031000"
+    },
+    {
+        "pgnc_id": "PGNC:29758",
+        "taxon_id": 3694,
+        "chromosome": "16",
+        "gene_symbol_string": "CYP98A23",
+        "gene_name_string": "cytochrome P450 family 98 subfamily A member 23",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.016G031100"
+        ],
+        "primary_id": "Potri.016G031100"
+    },
+    {
+        "pgnc_id": "PGNC:29765",
+        "taxon_id": 3694,
+        "chromosome": "16",
+        "gene_symbol_string": "CYP94D23A",
+        "gene_name_string": "cytochrome P450 family 94 subfamily D member 23A",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.016G031700"
+        ],
+        "primary_id": "Potri.016G031700"
+    },
+    {
+        "pgnc_id": "PGNC:29927",
+        "taxon_id": 3694,
+        "chromosome": "16",
+        "gene_symbol_string": "CYP93A4",
+        "gene_name_string": "cytochrome P450 family 93 subfamily A member 4",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.016G049800"
+        ],
+        "primary_id": "Potri.016G049800"
+    },
+    {
+        "pgnc_id": "PGNC:29929",
+        "taxon_id": 3694,
+        "chromosome": "16",
+        "gene_symbol_string": "CYP712C1",
+        "gene_name_string": "cytochrome P450 family 712 subfamily C member 1",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.016G050200"
+        ],
+        "primary_id": "Potri.016G050200"
+    },
+    {
+        "pgnc_id": "PGNC:29952",
+        "taxon_id": 3694,
+        "chromosome": "16",
+        "gene_symbol_string": "CYP712R1",
+        "gene_name_string": "cytochrome P450 family 712 subfamily R member 1",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.016G052600"
+        ],
+        "primary_id": "Potri.016G052600"
+    },
+    {
+        "pgnc_id": "PGNC:30667",
+        "taxon_id": 3694,
+        "chromosome": "16",
+        "gene_symbol_string": "CYP71AN1",
+        "gene_name_string": "cytochrome P450 family 71 subfamily AN member 1",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.016G137400"
+        ],
+        "primary_id": "Potri.016G137400"
+    },
+    {
+        "pgnc_id": "PGNC:30668",
+        "taxon_id": 3694,
+        "chromosome": "16",
+        "gene_symbol_string": "CYP71AN3",
+        "gene_name_string": "cytochrome P450 family 71 subfamily AN member 3",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.016G137600"
+        ],
+        "primary_id": "Potri.016G137600"
+    },
+    {
+        "pgnc_id": "PGNC:30909",
+        "taxon_id": 3694,
+        "chromosome": "17",
+        "gene_symbol_string": "CYP81R6",
+        "gene_name_string": "cytochrome P450 family 81 subfamily R member 6",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.017G023850"
+        ],
+        "primary_id": "Potri.017G023850"
+    },
+    {
+        "pgnc_id": "PGNC:30926",
+        "taxon_id": 3694,
+        "chromosome": "17",
+        "gene_symbol_string": "CYP81R2A",
+        "gene_name_string": "cytochrome P450 family 81 subfamily R member 2A",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.017G028100"
+        ],
+        "primary_id": "Potri.017G028100"
+    },
+    {
+        "pgnc_id": "PGNC:30927",
+        "taxon_id": 3694,
+        "chromosome": "17",
+        "gene_symbol_string": "CYP81R2B",
+        "gene_name_string": "cytochrome P450 family 81 subfamily R member 2B",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.017G028150"
+        ],
+        "primary_id": "Potri.017G028150"
+    },
+    {
+        "pgnc_id": "PGNC:30928",
+        "taxon_id": 3694,
+        "chromosome": "17",
+        "gene_symbol_string": "CYP81R1",
+        "gene_name_string": "cytochrome P450 family 81 subfamily R member 1",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.017G028200"
+        ],
+        "primary_id": "Potri.017G028200"
+    },
+    {
+        "pgnc_id": "PGNC:30934",
+        "taxon_id": 3694,
+        "chromosome": "17",
+        "gene_symbol_string": "CYP81R2C",
+        "gene_name_string": "cytochrome P450 family 81 subfamily R member 2C",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.017G028450"
+        ],
+        "primary_id": "Potri.017G028450"
+    },
+    {
+        "pgnc_id": "PGNC:31521",
+        "taxon_id": 3694,
+        "chromosome": "17",
+        "gene_symbol_string": "CYP85A5",
+        "gene_name_string": "cytochrome P450 family 85 subfamily A member 5",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.017G099000"
+        ],
+        "primary_id": "Potri.017G099000"
+    },
+    {
+        "pgnc_id": "PGNC:31646",
+        "taxon_id": 3694,
+        "chromosome": "17",
+        "gene_symbol_string": "CYP735A5",
+        "gene_name_string": "cytochrome P450 family 735 subfamily A member 5",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.017G114200"
+        ],
+        "primary_id": "Potri.017G114200"
+    },
+    {
+        "pgnc_id": "PGNC:2",
+        "taxon_id": 3694,
+        "chromosome": "6",
+        "gene_symbol_string": "RAD51",
+        "gene_name_string": "RAD51 recombinase",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "alias_gene_symbol_string": [
+            "PtRAD51"
+        ],
+        "phytozome_id": [
+            "Potri.006G135200"
+        ],
+        "ncbi_gene_id": [
+            "18100270"
+        ],
+        "ensembl_gene_id": [
+            "Potri.006G135200.v4.1"
+        ],
+        "uniprot_id": [
+            "A0A2K2A1W1"
+        ],
+        "primary_id": "Potri.006G135200"
+    },
+    {
+        "pgnc_id": "PGNC:3",
+        "taxon_id": 3694,
+        "chromosome": "13",
+        "gene_symbol_string": "PHYA",
+        "gene_name_string": "phytochrome A",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.013G000300"
+        ],
+        "ncbi_gene_id": [
+            "7482219"
+        ],
+        "ensembl_gene_id": [
+            "Potri.013G000300.v4.1"
+        ],
+        "uniprot_id": [
+            "B9HX24"
+        ],
+        "primary_id": "Potri.013G000300"
+    },
+    {
+        "pgnc_id": "PGNC:4",
+        "taxon_id": 3694,
+        "chromosome": "8",
+        "gene_symbol_string": "PHYB1",
+        "gene_name_string": "phytochrome B1",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.008G105200"
+        ],
+        "ncbi_gene_id": [
+            "7485902"
+        ],
+        "ensembl_gene_id": [
+            "Potri.008G105200.v4.1"
+        ],
+        "uniprot_id": [
+            "A0A2K1ZF30"
+        ],
+        "primary_id": "Potri.008G105200"
+    },
+    {
+        "pgnc_id": "PGNC:5",
+        "taxon_id": 3694,
+        "chromosome": "10",
+        "gene_symbol_string": "PHYB2",
+        "gene_name_string": "phytochrome B2",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.010G145900"
+        ],
+        "ncbi_gene_id": [
+            "7485825"
+        ],
+        "ensembl_gene_id": [
+            "Potri.010G145900.v4.1"
+        ],
+        "uniprot_id": [
+            "Q9FPQ2"
+        ],
+        "primary_id": "Potri.010G145900"
+    },
+    {
+        "pgnc_id": "PGNC:6",
+        "taxon_id": 3694,
+        "chromosome": "15",
+        "gene_symbol_string": "LFY",
+        "gene_name_string": "leafy",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "alias_gene_symbol_string": [
+            "PTLF"
+        ],
+        "alias_gene_name_string": [
+            "LEAFY/FLORICAULA homolog"
+        ],
+        "phytozome_id": [
+            "Potri.015G106900"
+        ],
+        "ncbi_gene_id": [
+            "7456652"
+        ],
+        "ensembl_gene_id": [
+            "Potri.015G106900.v4.1"
+        ],
+        "uniprot_id": [
+            "O04064"
+        ],
+        "primary_id": "Potri.015G106900"
+    },
+    {
+        "pgnc_id": "PGNC:7",
+        "taxon_id": 3694,
+        "chromosome": "15",
+        "gene_symbol_string": "CDC45",
+        "gene_name_string": "cell division cycle 45",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.015G090600"
+        ],
+        "ncbi_gene_id": [
+            "7454686"
+        ],
+        "ensembl_gene_id": [
+            "Potri.015G090600.v4.1"
+        ],
+        "uniprot_id": [
+            "B9IF54"
+        ],
+        "primary_id": "Potri.015G090600"
+    },
+    {
+        "pgnc_id": "PGNC:8",
+        "taxon_id": 3694,
+        "chromosome": "6",
+        "gene_symbol_string": "PFD1.1",
+        "gene_name_string": "prefoldin subunit 1.1",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.006G079700"
+        ],
+        "ncbi_gene_id": [
+            "7485523"
+        ],
+        "ensembl_gene_id": [
+            "Potri.006G079700.v4.1"
+        ],
+        "uniprot_id": [
+            "A9PA16"
+        ],
+        "primary_id": "Potri.006G079700"
+    },
+    {
+        "pgnc_id": "PGNC:9",
+        "taxon_id": 3694,
+        "chromosome": "18",
+        "gene_symbol_string": "PFD1.2",
+        "gene_name_string": "prefoldin subunit 1.2",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.018G149200"
+        ],
+        "ensembl_gene_id": [
+            "Potri.018G149200.v4.1"
+        ],
+        "uniprot_id": [
+            "A9PCN0"
+        ],
+        "primary_id": "Potri.018G149200"
+    },
+    {
+        "pgnc_id": "PGNC:10",
+        "taxon_id": 3694,
+        "chromosome": "1",
+        "gene_symbol_string": "PFD2.1",
+        "gene_name_string": "prefoldin subunit 2.1",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "alias_gene_symbol_string": [
+            "PtPFD2.1"
+        ],
+        "phytozome_id": [
+            "Potri.001G240200"
+        ],
+        "ncbi_gene_id": [
+            "7465111"
+        ],
+        "ensembl_gene_id": [
+            "Potri.001G240200.v4.1"
+        ],
+        "uniprot_id": [
+            "A9P9L5"
+        ],
+        "primary_id": "Potri.001G240200"
+    },
+    {
+        "pgnc_id": "PGNC:11",
+        "taxon_id": 3694,
+        "chromosome": "8",
+        "gene_symbol_string": "PFD2.2",
+        "gene_name_string": "prefoldin subunit 2.2",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "alias_gene_symbol_string": [
+            "PtPFD2.2"
+        ],
+        "phytozome_id": [
+            "Potri.008G153900"
+        ],
+        "ncbi_gene_id": [
+            "7467496"
+        ],
+        "ensembl_gene_id": [
+            "Potri.008G153900.v4.1"
+        ],
+        "uniprot_id": [
+            "B9HJZ0"
+        ],
+        "primary_id": "Potri.008G153900"
+    },
+    {
+        "pgnc_id": "PGNC:12",
+        "taxon_id": 3694,
+        "chromosome": "8",
+        "gene_symbol_string": "PFD3.1",
+        "gene_name_string": "prefoldin subunit 3.1",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.008G103400"
+        ],
+        "ncbi_gene_id": [
+            "7485890"
+        ],
+        "ensembl_gene_id": [
+            "Potri.008G103400.v4.1"
+        ],
+        "uniprot_id": [
+            "B9HIM0"
+        ],
+        "primary_id": "Potri.008G103400"
+    },
+    {
+        "pgnc_id": "PGNC:13",
+        "taxon_id": 3694,
+        "chromosome": "10",
+        "gene_symbol_string": "PFD3.2",
+        "gene_name_string": "prefoldin subunit 3.2",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.010G147600"
+        ],
+        "ncbi_gene_id": [
+            "7485837"
+        ],
+        "ensembl_gene_id": [
+            "Potri.010G147600.v4.1"
+        ],
+        "uniprot_id": [
+            "A0A2K1YU60"
+        ],
+        "primary_id": "Potri.010G147600"
+    },
+    {
+        "pgnc_id": "PGNC:14",
+        "taxon_id": 3694,
+        "chromosome": "5",
+        "gene_symbol_string": "PFD4.1",
+        "gene_name_string": "prefoldin subunit 4.1",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.005G054500"
+        ],
+        "ncbi_gene_id": [
+            "18098979"
+        ],
+        "ensembl_gene_id": [
+            "Potri.005G054500.v4.1"
+        ],
+        "uniprot_id": [
+            "A9PE04"
+        ],
+        "primary_id": "Potri.005G054500"
+    },
+    {
+        "pgnc_id": "PGNC:15",
+        "taxon_id": 3694,
+        "chromosome": "13",
+        "gene_symbol_string": "PFD4.2",
+        "gene_name_string": "prefoldin subunit 4.2",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.013G042100"
+        ],
+        "ncbi_gene_id": [
+            "7487677"
+        ],
+        "ensembl_gene_id": [
+            "Potri.013G042100.v4.1"
+        ],
+        "uniprot_id": [
+            "B9I5G4"
+        ],
+        "primary_id": "Potri.013G042100"
+    },
+    {
+        "pgnc_id": "PGNC:16",
+        "taxon_id": 3694,
+        "chromosome": "5",
+        "gene_symbol_string": "PFD5.1",
+        "gene_name_string": "prefoldin subunit 5.1",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.005G090100"
+        ],
+        "ncbi_gene_id": [
+            "127903879"
+        ],
+        "ensembl_gene_id": [
+            "Potri.005G090100.v4.1"
+        ],
+        "uniprot_id": [
+            "B9H5Q0"
+        ],
+        "primary_id": "Potri.005G090100"
+    },
+    {
+        "pgnc_id": "PGNC:17",
+        "taxon_id": 3694,
+        "chromosome": "7",
+        "gene_symbol_string": "PFD5.2",
+        "gene_name_string": "prefoldin subunit 5.2",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.007G074042"
+        ],
+        "ncbi_gene_id": [
+            "7457172"
+        ],
+        "ensembl_gene_id": [
+            "Potri.007G074042.v4.1"
+        ],
+        "uniprot_id": [
+            "A9P9R0"
+        ],
+        "primary_id": "Potri.007G074042"
+    },
+    {
+        "pgnc_id": "PGNC:18",
+        "taxon_id": 3694,
+        "chromosome": "4",
+        "gene_symbol_string": "PFD6",
+        "gene_name_string": "prefoldin subunit 6",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.004G131900"
+        ],
+        "ncbi_gene_id": [
+            "7463001"
+        ],
+        "ensembl_gene_id": [
+            "Potri.004G131900.v4.1"
+        ],
+        "uniprot_id": [
+            "B9H401"
+        ],
+        "primary_id": "Potri.004G131900"
+    },
+    {
+        "pgnc_id": "PGNC:32014",
+        "taxon_id": 3694,
+        "chromosome": "17",
+        "gene_symbol_string": "CYP720A1",
+        "gene_name_string": "cytochrome P450 family 720 subfamily A member 1",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.017G154600"
+        ],
+        "primary_id": "Potri.017G154600"
+    },
+    {
+        "pgnc_id": "PGNC:32439",
+        "taxon_id": 3694,
+        "chromosome": "18",
+        "gene_symbol_string": "CYP92A25",
+        "gene_name_string": "cytochrome P450 family 92 subfamily A member 25",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.018G051300"
+        ],
+        "primary_id": "Potri.018G051300"
+    },
+    {
+        "pgnc_id": "PGNC:32510",
+        "taxon_id": 3694,
+        "chromosome": "18",
+        "gene_symbol_string": "CYP711A7",
+        "gene_name_string": "cytochrome P450 family 711 subfamily A member 7",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.018G062100"
+        ],
+        "primary_id": "Potri.018G062100"
+    },
+    {
+        "pgnc_id": "PGNC:32584",
+        "taxon_id": 3694,
+        "chromosome": "18",
+        "gene_symbol_string": "CYP734A10",
+        "gene_name_string": "cytochrome P450 family 734 subfamily A member 10",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.018G070900"
+        ],
+        "primary_id": "Potri.018G070900"
+    },
+    {
+        "pgnc_id": "PGNC:33113",
+        "taxon_id": 3694,
+        "chromosome": "18",
+        "gene_symbol_string": "CYP716A3",
+        "gene_name_string": "cytochrome P450 family 716 subfamily A member 3",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.018G133901"
+        ],
+        "primary_id": "Potri.018G133901"
+    },
+    {
+        "pgnc_id": "PGNC:33114",
+        "taxon_id": 3694,
+        "chromosome": "18",
+        "gene_symbol_string": "CYP716A4",
+        "gene_name_string": "cytochrome P450 family 716 subfamily A member 4",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.018G134000"
+        ],
+        "primary_id": "Potri.018G134000"
+    },
+    {
+        "pgnc_id": "PGNC:33117",
+        "taxon_id": 3694,
+        "chromosome": "18",
+        "gene_symbol_string": "CYP716A5",
+        "gene_name_string": "cytochrome P450 family 716 subfamily A member 5",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.018G134300"
+        ],
+        "primary_id": "Potri.018G134300"
+    },
+    {
+        "pgnc_id": "PGNC:33119",
+        "taxon_id": 3694,
+        "chromosome": "18",
+        "gene_symbol_string": "CYP716A6",
+        "gene_name_string": "cytochrome P450 family 716 subfamily A member 6",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.018G134700"
+        ],
+        "primary_id": "Potri.018G134700"
+    },
+    {
+        "pgnc_id": "PGNC:33255",
+        "taxon_id": 3694,
+        "chromosome": "18",
+        "gene_symbol_string": "CYP73A44",
+        "gene_name_string": "cytochrome P450 family 73 subfamily A member 44",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.018G146100"
+        ],
+        "primary_id": "Potri.018G146100"
+    },
+    {
+        "pgnc_id": "PGNC:33286",
+        "taxon_id": 3694,
+        "chromosome": "18",
+        "gene_symbol_string": "CYP716A9",
+        "gene_name_string": "cytochrome P450 family 716 subfamily A member 9",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.018G149300"
+        ],
+        "primary_id": "Potri.018G149300"
+    },
+    {
+        "pgnc_id": "PGNC:33487",
+        "taxon_id": 3694,
+        "chromosome": "19",
+        "gene_symbol_string": "CYP749A2",
+        "gene_name_string": "cytochrome P450 family 749 subfamily A member 2",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.019G014407"
+        ],
+        "primary_id": "Potri.019G014407"
+    },
+    {
+        "pgnc_id": "PGNC:33893",
+        "taxon_id": 3694,
+        "chromosome": "19",
+        "gene_symbol_string": "CYP728E1",
+        "gene_name_string": "cytochrome P450 family 728 subfamily E member 1",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.019G057901"
+        ],
+        "primary_id": "Potri.019G057901"
+    },
+    {
+        "pgnc_id": "PGNC:33953",
+        "taxon_id": 3694,
+        "chromosome": "19",
+        "gene_symbol_string": "CYP714A3",
+        "gene_name_string": "cytochrome P450 family 714 subfamily A member 3",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.019G064200"
+        ],
+        "primary_id": "Potri.019G064200"
+    },
+    {
+        "pgnc_id": "PGNC:34017",
+        "taxon_id": 3694,
+        "chromosome": "19",
+        "gene_symbol_string": "CYP749A14",
+        "gene_name_string": "cytochrome P450 family 749 subfamily A member 14",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.019G071200"
+        ],
+        "primary_id": "Potri.019G071200"
+    },
+    {
+        "pgnc_id": "PGNC:34076",
+        "taxon_id": 3694,
+        "chromosome": "19",
+        "gene_symbol_string": "CYP716E3",
+        "gene_name_string": "cytochrome P450 family 716 subfamily E member 3",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.019G078600"
+        ],
+        "primary_id": "Potri.019G078600"
+    },
+    {
+        "pgnc_id": "PGNC:34093",
+        "taxon_id": 3694,
+        "chromosome": "19",
+        "gene_symbol_string": "CYP716E4",
+        "gene_name_string": "cytochrome P450 family 716 subfamily E member 4",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.019G080500"
+        ],
+        "primary_id": "Potri.019G080500"
+    },
+    {
+        "pgnc_id": "PGNC:34461",
+        "taxon_id": 3694,
+        "chromosome": "19",
+        "gene_symbol_string": "CYP73A43",
+        "gene_name_string": "cytochrome P450 family 73 subfamily A member 43",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.019G130700"
+        ],
+        "primary_id": "Potri.019G130700"
+    },
+    {
+        "pgnc_id": "PGNC:20",
+        "taxon_id": 3694,
+        "chromosome": "13",
+        "gene_symbol_string": "FEN1",
+        "gene_name_string": "flap endonuclease 1",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.013G000700"
+        ],
+        "ncbi_gene_id": [
+            "18103998"
+        ],
+        "ensembl_gene_id": [
+            "Potri.013G000700.v4.1"
+        ],
+        "uniprot_id": [
+            "A0A3N7FXN1"
+        ],
+        "primary_id": "Potri.013G000700"
+    },
+    {
+        "pgnc_id": "PGNC:19",
+        "taxon_id": 3694,
+        "chromosome": "8",
+        "gene_symbol_string": "NUP155",
+        "gene_name_string": "nucleoporin 155",
+        "locus_type": [
+            "protein-coding gene"
+        ],
+        "status": "approved",
+        "phytozome_id": [
+            "Potri.008G134800"
+        ],
+        "ncbi_gene_id": [
+            "7457802"
+        ],
+        "ensembl_gene_id": [
+            "Potri.008G134800.v4.1"
+        ],
+        "uniprot_id": [
+            "A0A2K1ZGP8"
+        ],
+        "primary_id": "Potri.008G134800"
+    }
+]
